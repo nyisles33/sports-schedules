@@ -1,0 +1,3978 @@
+[
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-25",
+    "time": "19:30",
+    "away": "army",
+    "home": "east carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-26",
+    "time": "19:00",
+    "away": "florida state",
+    "home": "virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-26",
+    "time": "22:30",
+    "away": "houston",
+    "home": "oregon state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-26",
+    "time": "21:00",
+    "away": "texas christian",
+    "home": "arizona state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "akron",
+    "home": "toledo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:30",
+    "away": "alabama",
+    "home": "georgia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:30",
+    "away": "appalachian state",
+    "home": "boise state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:00",
+    "away": "arizona",
+    "home": "iowa state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:00",
+    "away": "arkansas state",
+    "home": "louisiana-monroe"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "auburn",
+    "home": "texas a&m"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "baylor",
+    "home": "oklahoma state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "TBD",
+    "away": "bowling green",
+    "home": "ohio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "22:15",
+    "away": "brigham young",
+    "home": "colorado"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "california",
+    "home": "boston college"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "central florida",
+    "home": "kansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "cincinnati",
+    "home": "kansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "connecticut",
+    "home": "buffalo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "duke",
+    "home": "syracuse"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "13:00",
+    "away": "eastern michigan",
+    "home": "central michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "13:30",
+    "away": "georgia southern",
+    "home": "james madison"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "georgia tech",
+    "home": "wake forest"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "16:10",
+    "away": "hawaii",
+    "home": "air force"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "TBD",
+    "away": "indiana",
+    "home": "iowa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:00",
+    "away": "jacksonville state",
+    "home": "southern mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:45",
+    "away": "kentucky",
+    "home": "south carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "18:00",
+    "away": "liberty",
+    "home": "old dominion"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "lindenwood",
+    "home": "miami (oh)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "louisiana state",
+    "home": "mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "21:00",
+    "away": "louisiana tech",
+    "home": "texas-el paso"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "louisville",
+    "home": "pittsburgh"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "20:00",
+    "away": "marshall",
+    "home": "louisiana"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:30",
+    "away": "massachusetts",
+    "home": "missouri"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "TBD",
+    "away": "memphis",
+    "home": "florida atlantic"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "18:00",
+    "away": "middle tennessee state",
+    "home": "kennesaw state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "16:00",
+    "away": "new mexico state",
+    "home": "new mexico"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "notre dame",
+    "home": "arkansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "TBD",
+    "away": "ohio state",
+    "home": "washington"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:30",
+    "away": "oregon",
+    "home": "penn state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "18:30",
+    "away": "rhode island",
+    "home": "western michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "rice",
+    "home": "navy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "rutgers",
+    "home": "minnesota"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "san diego state",
+    "home": "northern illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:30",
+    "away": "san jose state",
+    "home": "stanford"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "south alabama",
+    "home": "north texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:00",
+    "away": "southern california",
+    "home": "illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "16:15",
+    "away": "tennessee",
+    "home": "mississippi state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "TBD",
+    "away": "tulane",
+    "home": "tulsa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "TBD",
+    "away": "ucla",
+    "home": "northwestern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "15:30",
+    "away": "utah",
+    "home": "west virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "12:45",
+    "away": "utah state",
+    "home": "vanderbilt"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:00",
+    "away": "virginia tech",
+    "home": "north carolina state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:30",
+    "away": "washington state",
+    "home": "colorado state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-09-27",
+    "time": "19:00",
+    "away": "western kentucky",
+    "home": "missouri state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-02",
+    "time": "21:00",
+    "away": "sam houston",
+    "home": "new mexico state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-03",
+    "time": "19:00",
+    "away": "charlotte",
+    "home": "south florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-03",
+    "time": "22:30",
+    "away": "colorado state",
+    "home": "san diego state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-03",
+    "time": "22:00",
+    "away": "new mexico",
+    "home": "san jose state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-03",
+    "time": "22:30",
+    "away": "west virginia",
+    "home": "brigham young"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-03",
+    "time": "19:00",
+    "away": "western kentucky",
+    "home": "delaware"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "12:00",
+    "away": "air force",
+    "home": "navy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "army",
+    "home": "alabama-birmingham"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "15:30",
+    "away": "boise state",
+    "home": "notre dame"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "boston college",
+    "home": "pittsburgh"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "campbell",
+    "home": "north carolina state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "15:30",
+    "away": "central michigan",
+    "home": "akron"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "clemson",
+    "home": "north carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "coastal carolina",
+    "home": "old dominion"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "colorado",
+    "home": "texas christian"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "duke",
+    "home": "california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "eastern michigan",
+    "home": "buffalo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "florida atlantic",
+    "home": "rice"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "15:30",
+    "away": "florida international",
+    "home": "connecticut"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "illinois",
+    "home": "purdue"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "iowa state",
+    "home": "cincinnati"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "james madison",
+    "home": "georgia state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "kansas",
+    "home": "central florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "kansas state",
+    "home": "baylor"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "00:00",
+    "away": "kent state",
+    "home": "oklahoma"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "12:00",
+    "away": "kentucky",
+    "home": "georgia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "louisiana-monroe",
+    "home": "northwestern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "miami (fl)",
+    "home": "florida state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "miami (oh)",
+    "home": "northern illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "michigan state",
+    "home": "nebraska"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "minnesota",
+    "home": "ohio state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "mississippi state",
+    "home": "texas a&m"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "22:30",
+    "away": "nevada",
+    "home": "fresno state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "19:00",
+    "away": "nevada-las vegas",
+    "home": "wyoming"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "12:00",
+    "away": "ohio",
+    "home": "ball state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "oklahoma state",
+    "home": "arizona"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "oregon state",
+    "home": "appalachian state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "penn state",
+    "home": "ucla"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "south alabama",
+    "home": "troy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "syracuse",
+    "home": "southern methodist"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "texas",
+    "home": "florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "texas state",
+    "home": "arkansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "texas tech",
+    "home": "houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "texas-san antonio",
+    "home": "temple"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "tulsa",
+    "home": "memphis"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "vanderbilt",
+    "home": "alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "virginia",
+    "home": "louisville"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "wake forest",
+    "home": "virginia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "washington",
+    "home": "maryland"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "western michigan",
+    "home": "massachusetts"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-04",
+    "time": "TBD",
+    "away": "wisconsin",
+    "home": "michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-08",
+    "time": "20:00",
+    "away": "liberty",
+    "home": "texas-el paso"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-08",
+    "time": "19:30",
+    "away": "missouri state",
+    "home": "middle tennessee state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-09",
+    "time": "20:00",
+    "away": "east carolina",
+    "home": "tulane"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-09",
+    "time": "20:00",
+    "away": "jacksonville state",
+    "home": "sam houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-09",
+    "time": "19:00",
+    "away": "louisiana tech",
+    "home": "kennesaw state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-09",
+    "time": "TBD",
+    "away": "southern mississippi",
+    "home": "georgia southern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-10",
+    "time": "21:00",
+    "away": "fresno state",
+    "home": "colorado state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-10",
+    "time": "21:00",
+    "away": "rutgers",
+    "home": "washington"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-10",
+    "time": "19:30",
+    "away": "south florida",
+    "home": "north texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "15:30",
+    "away": "air force",
+    "home": "nevada-las vegas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "12:00",
+    "away": "alabama",
+    "home": "missouri"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "alabama-birmingham",
+    "home": "florida atlantic"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "appalachian state",
+    "home": "georgia state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "arizona state",
+    "home": "utah"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "arkansas",
+    "home": "tennessee"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "ball state",
+    "home": "western michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "brigham young",
+    "home": "arizona"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "central florida",
+    "home": "cincinnati"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "12:00",
+    "away": "charlotte",
+    "home": "army"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "clemson",
+    "home": "boston college"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "florida",
+    "home": "texas a&m"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "georgia",
+    "home": "auburn"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "houston",
+    "home": "oklahoma state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "indiana",
+    "home": "oregon"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "iowa",
+    "home": "wisconsin"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "iowa state",
+    "home": "colorado"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "kansas",
+    "home": "texas tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "louisiana",
+    "home": "james madison"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "louisiana-monroe",
+    "home": "coastal carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "massachusetts",
+    "home": "kent state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "miami (oh)",
+    "home": "akron"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "michigan",
+    "home": "southern california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "navy",
+    "home": "temple"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "nebraska",
+    "home": "maryland"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "new mexico",
+    "home": "boise state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "15:30",
+    "away": "north carolina state",
+    "home": "notre dame"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "northern illinois",
+    "home": "eastern michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "northwestern",
+    "home": "penn state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "ohio state",
+    "home": "illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "old dominion",
+    "home": "marshall"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "pittsburgh",
+    "home": "florida state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "purdue",
+    "home": "minnesota"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "rice",
+    "home": "texas-san antonio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "22:30",
+    "away": "san diego state",
+    "home": "nevada"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "19:00",
+    "away": "san jose state",
+    "home": "wyoming"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "south carolina",
+    "home": "louisiana state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "stanford",
+    "home": "southern methodist"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "15:30",
+    "away": "texas",
+    "home": "oklahoma"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "texas christian",
+    "home": "kansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "toledo",
+    "home": "bowling green"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "troy",
+    "home": "texas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "12:00",
+    "away": "ucla",
+    "home": "michigan state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "virginia tech",
+    "home": "georgia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "TBD",
+    "away": "wake forest",
+    "home": "oregon state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-11",
+    "time": "12:45",
+    "away": "washington state",
+    "home": "mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-12",
+    "time": "00:00",
+    "away": "utah state",
+    "home": "hawaii"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-14",
+    "time": "19:30",
+    "away": "arkansas state",
+    "home": "south alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-14",
+    "time": "20:00",
+    "away": "florida international",
+    "home": "western kentucky"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-14",
+    "time": "19:00",
+    "away": "new mexico state",
+    "home": "liberty"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-15",
+    "time": "TBD",
+    "away": "delaware",
+    "home": "jacksonville state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-15",
+    "time": "19:00",
+    "away": "texas-el paso",
+    "home": "sam houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-16",
+    "time": "19:00",
+    "away": "tulsa",
+    "home": "east carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-17",
+    "time": "19:00",
+    "away": "louisville",
+    "home": "miami (fl)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-17",
+    "time": "20:00",
+    "away": "nebraska",
+    "home": "minnesota"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-17",
+    "time": "22:30",
+    "away": "north carolina",
+    "home": "california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-17",
+    "time": "21:00",
+    "away": "san jose state",
+    "home": "utah state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "akron",
+    "home": "ball state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "arizona",
+    "home": "houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "army",
+    "home": "tulane"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "baylor",
+    "home": "texas christian"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "buffalo",
+    "home": "massachusetts"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "central michigan",
+    "home": "bowling green"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "cincinnati",
+    "home": "oklahoma state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "coastal carolina",
+    "home": "appalachian state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "connecticut",
+    "home": "boston college"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "eastern michigan",
+    "home": "miami (oh)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "florida atlantic",
+    "home": "south florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "22:30",
+    "away": "florida state",
+    "home": "stanford"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "georgia state",
+    "home": "georgia southern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "georgia tech",
+    "home": "duke"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "19:00",
+    "away": "hawaii",
+    "home": "colorado state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "kent state",
+    "home": "toledo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "22:00",
+    "away": "lafayette",
+    "home": "oregon state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "louisiana state",
+    "home": "vanderbilt"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "maryland",
+    "home": "ucla"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "memphis",
+    "home": "alabama-birmingham"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "michigan state",
+    "home": "indiana"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "mississippi",
+    "home": "georgia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "mississippi state",
+    "home": "florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "missouri",
+    "home": "auburn"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "nevada",
+    "home": "new mexico"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "nevada-las vegas",
+    "home": "boise state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "northern illinois",
+    "home": "ohio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "ohio state",
+    "home": "wisconsin"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "oklahoma",
+    "home": "south carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "old dominion",
+    "home": "james madison"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "oregon",
+    "home": "rutgers"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "penn state",
+    "home": "iowa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "pittsburgh",
+    "home": "syracuse"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "purdue",
+    "home": "northwestern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "19:30",
+    "away": "southern california",
+    "home": "notre dame"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "southern methodist",
+    "home": "clemson"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "southern mississippi",
+    "home": "louisiana"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "temple",
+    "home": "charlotte"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "00:00",
+    "away": "tennessee",
+    "home": "alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "texas",
+    "home": "kentucky"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "texas a&m",
+    "home": "arkansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "texas state",
+    "home": "marshall"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "texas tech",
+    "home": "arizona state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "texas-san antonio",
+    "home": "north texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "troy",
+    "home": "louisiana-monroe"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "utah",
+    "home": "brigham young"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "washington",
+    "home": "michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "18:30",
+    "away": "washington state",
+    "home": "virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "TBD",
+    "away": "west virginia",
+    "home": "central florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-18",
+    "time": "15:30",
+    "away": "wyoming",
+    "home": "air force"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-21",
+    "time": "19:00",
+    "away": "kennesaw state",
+    "home": "florida international"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-21",
+    "time": "19:30",
+    "away": "western kentucky",
+    "home": "louisiana tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-22",
+    "time": "19:30",
+    "away": "middle tennessee state",
+    "home": "delaware"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-22",
+    "time": "21:00",
+    "away": "missouri state",
+    "home": "new mexico state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-23",
+    "time": "TBD",
+    "away": "south alabama",
+    "home": "georgia state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-24",
+    "time": "22:00",
+    "away": "boise state",
+    "home": "nevada"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-24",
+    "time": "19:30",
+    "away": "california",
+    "home": "virginia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-24",
+    "time": "19:00",
+    "away": "north texas",
+    "home": "charlotte"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "akron",
+    "home": "buffalo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "alabama",
+    "home": "south carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "appalachian state",
+    "home": "old dominion"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "auburn",
+    "home": "arkansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "ball state",
+    "home": "northern illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "baylor",
+    "home": "cincinnati"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "boston college",
+    "home": "louisville"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "bowling green",
+    "home": "kent state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "brigham young",
+    "home": "iowa state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "colorado",
+    "home": "utah"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "19:30",
+    "away": "colorado state",
+    "home": "wyoming"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "connecticut",
+    "home": "rice"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "15:30",
+    "away": "florida atlantic",
+    "home": "navy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "georgia southern",
+    "home": "arkansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "houston",
+    "home": "arizona state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "illinois",
+    "home": "washington"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "kansas state",
+    "home": "kansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "louisiana",
+    "home": "troy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "louisiana-monroe",
+    "home": "southern mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "massachusetts",
+    "home": "central michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "michigan",
+    "home": "michigan state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "minnesota",
+    "home": "iowa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "mississippi",
+    "home": "oklahoma"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "missouri",
+    "home": "vanderbilt"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "north carolina state",
+    "home": "pittsburgh"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "northwestern",
+    "home": "nebraska"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "ohio",
+    "home": "eastern michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "oklahoma state",
+    "home": "texas tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "12:01",
+    "away": "rutgers",
+    "home": "purdue"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "san diego state",
+    "home": "fresno state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "south florida",
+    "home": "memphis"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "southern methodist",
+    "home": "wake forest"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "stanford",
+    "home": "miami (fl)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "syracuse",
+    "home": "georgia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "temple",
+    "home": "tulsa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "tennessee",
+    "home": "kentucky"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "texas",
+    "home": "mississippi state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "texas a&m",
+    "home": "louisiana state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "texas christian",
+    "home": "west virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "15:30",
+    "away": "toledo",
+    "home": "washington state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "ucla",
+    "home": "indiana"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "15:00",
+    "away": "utah state",
+    "home": "new mexico"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "virginia",
+    "home": "north carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "western michigan",
+    "home": "miami (oh)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-25",
+    "time": "TBD",
+    "away": "wisconsin",
+    "home": "oregon"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-28",
+    "time": "20:00",
+    "away": "james madison",
+    "home": "texas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-28",
+    "time": "20:00",
+    "away": "texas-el paso",
+    "home": "kennesaw state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-29",
+    "time": "20:00",
+    "away": "florida international",
+    "home": "missouri state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-29",
+    "time": "19:30",
+    "away": "jacksonville state",
+    "home": "middle tennessee state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-30",
+    "time": "TBD",
+    "away": "marshall",
+    "home": "coastal carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-30",
+    "time": "19:30",
+    "away": "tulane",
+    "home": "texas-san antonio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-31",
+    "time": "19:00",
+    "away": "memphis",
+    "home": "rice"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-31",
+    "time": "19:30",
+    "away": "north carolina",
+    "home": "syracuse"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-10-31",
+    "time": "20:00",
+    "away": "sam houston",
+    "home": "louisiana tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "12:00",
+    "away": "alabama-birmingham",
+    "home": "connecticut"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "arizona",
+    "home": "colorado"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "arizona state",
+    "home": "iowa state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "arkansas state",
+    "home": "troy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "12:00",
+    "away": "army",
+    "home": "air force"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "buffalo",
+    "home": "bowling green"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "central florida",
+    "home": "baylor"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "central michigan",
+    "home": "western michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "cincinnati",
+    "home": "utah"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "15:30",
+    "away": "delaware",
+    "home": "liberty"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "duke",
+    "home": "clemson"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "east carolina",
+    "home": "temple"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "fresno state",
+    "home": "boise state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "15:30",
+    "away": "georgia",
+    "home": "florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "georgia tech",
+    "home": "north carolina state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "22:30",
+    "away": "hawaii",
+    "home": "san jose state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "indiana",
+    "home": "maryland"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "kentucky",
+    "home": "auburn"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "louisiana",
+    "home": "south alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "louisville",
+    "home": "virginia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "miami (fl)",
+    "home": "southern methodist"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "michigan state",
+    "home": "minnesota"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "mississippi state",
+    "home": "arkansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "navy",
+    "home": "north texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "15:00",
+    "away": "new mexico",
+    "home": "nevada-las vegas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "15:30",
+    "away": "new mexico state",
+    "home": "western kentucky"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "notre dame",
+    "home": "boston college"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "oklahoma",
+    "home": "tennessee"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "oklahoma state",
+    "home": "kansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "old dominion",
+    "home": "louisiana-monroe"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "penn state",
+    "home": "ohio state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "pittsburgh",
+    "home": "stanford"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "purdue",
+    "home": "michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "rutgers",
+    "home": "illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "south carolina",
+    "home": "mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "southern california",
+    "home": "nebraska"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "texas tech",
+    "home": "kansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "12:00",
+    "away": "vanderbilt",
+    "home": "texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "virginia",
+    "home": "california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "wake forest",
+    "home": "florida state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "20:00",
+    "away": "washington state",
+    "home": "oregon state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "TBD",
+    "away": "west virginia",
+    "home": "houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-01",
+    "time": "19:00",
+    "away": "wyoming",
+    "home": "san diego state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-04",
+    "time": "19:00",
+    "away": "massachusetts",
+    "home": "akron"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-04",
+    "time": "19:00",
+    "away": "miami (oh)",
+    "home": "ohio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-05",
+    "time": "TBD",
+    "away": "kent state",
+    "home": "ball state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-05",
+    "time": "TBD",
+    "away": "northern illinois",
+    "home": "toledo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-06",
+    "time": "TBD",
+    "away": "georgia southern",
+    "home": "appalachian state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-06",
+    "time": "19:30",
+    "away": "texas-san antonio",
+    "home": "south florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-07",
+    "time": "TBD",
+    "away": "houston",
+    "home": "central florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-07",
+    "time": "21:00",
+    "away": "northwestern",
+    "home": "southern california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-07",
+    "time": "21:00",
+    "away": "tulane",
+    "home": "memphis"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "air force",
+    "home": "san jose state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "alabama-birmingham",
+    "home": "rice"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "auburn",
+    "home": "vanderbilt"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "bowling green",
+    "home": "eastern michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "brigham young",
+    "home": "texas tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "california",
+    "home": "louisville"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "charlotte",
+    "home": "east carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "13:00",
+    "away": "citadel",
+    "home": "mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "colorado",
+    "home": "west virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "15:30",
+    "away": "duke",
+    "home": "connecticut"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "florida",
+    "home": "kentucky"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "15:00",
+    "away": "florida international",
+    "home": "middle tennessee state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "florida state",
+    "home": "clemson"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "12:00",
+    "away": "georgia",
+    "home": "mississippi state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "georgia state",
+    "home": "coastal carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "indiana",
+    "home": "penn state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "iowa state",
+    "home": "texas christian"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "15:00",
+    "away": "jacksonville state",
+    "home": "texas-el paso"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "james madison",
+    "home": "marshall"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "kansas",
+    "home": "arizona"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "16:00",
+    "away": "kennesaw state",
+    "home": "new mexico state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "louisiana state",
+    "home": "alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "15:00",
+    "away": "louisiana tech",
+    "home": "delaware"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "maryland",
+    "home": "rutgers"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "13:00",
+    "away": "missouri state",
+    "home": "liberty"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "19:30",
+    "away": "navy",
+    "home": "notre dame"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "nebraska",
+    "home": "ucla"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "19:30",
+    "away": "nevada",
+    "home": "utah state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "nevada-las vegas",
+    "home": "colorado state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "ohio state",
+    "home": "purdue"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "oregon",
+    "home": "iowa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "22:00",
+    "away": "sam houston",
+    "home": "oregon state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "23:00",
+    "away": "san diego state",
+    "home": "hawaii"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "southern methodist",
+    "home": "boston college"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "southern mississippi",
+    "home": "arkansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "stanford",
+    "home": "north carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "syracuse",
+    "home": "miami (fl)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "12:00",
+    "away": "temple",
+    "home": "army"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "texas a&m",
+    "home": "missouri"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "texas state",
+    "home": "louisiana"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "tulsa",
+    "home": "florida atlantic"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "wake forest",
+    "home": "virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-08",
+    "time": "TBD",
+    "away": "washington",
+    "home": "wisconsin"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-11",
+    "time": "19:30",
+    "away": "kent state",
+    "home": "akron"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-11",
+    "time": "19:30",
+    "away": "ohio",
+    "home": "western michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-12",
+    "time": "19:00",
+    "away": "buffalo",
+    "home": "central michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-12",
+    "time": "19:00",
+    "away": "northern illinois",
+    "home": "massachusetts"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-12",
+    "time": "19:00",
+    "away": "toledo",
+    "home": "miami (oh)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-13",
+    "time": "TBD",
+    "away": "troy",
+    "home": "old dominion"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-14",
+    "time": "19:30",
+    "away": "clemson",
+    "home": "louisville"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-14",
+    "time": "21:00",
+    "away": "minnesota",
+    "home": "oregon"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "12:00",
+    "away": "air force",
+    "home": "connecticut"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "appalachian state",
+    "home": "james madison"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "arizona",
+    "home": "cincinnati"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "arkansas",
+    "home": "louisiana state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "22:30",
+    "away": "boise state",
+    "home": "san diego state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "central florida",
+    "home": "texas tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "coastal carolina",
+    "home": "georgia southern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "15:00",
+    "away": "colorado state",
+    "home": "new mexico"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "13:00",
+    "away": "delaware",
+    "home": "sam houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "eastern michigan",
+    "home": "ball state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "florida",
+    "home": "mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "florida atlantic",
+    "home": "tulane"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "georgia tech",
+    "home": "boston college"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "iowa",
+    "home": "southern california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "kansas state",
+    "home": "oklahoma state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "14:00",
+    "away": "kennesaw state",
+    "home": "jacksonville state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "17:00",
+    "away": "liberty",
+    "home": "florida international"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "22:00",
+    "away": "louisiana tech",
+    "home": "washington state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "marshall",
+    "home": "georgia state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "maryland",
+    "home": "illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "memphis",
+    "home": "east carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "michigan",
+    "home": "northwestern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "15:30",
+    "away": "middle tennessee state",
+    "home": "western kentucky"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "mississippi state",
+    "home": "missouri"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "16:15",
+    "away": "new mexico state",
+    "home": "tennessee"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "north carolina",
+    "home": "wake forest"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "north carolina state",
+    "home": "miami (fl)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "north texas",
+    "home": "alabama-birmingham"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "notre dame",
+    "home": "pittsburgh"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "oklahoma",
+    "home": "alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "oregon state",
+    "home": "tulsa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "penn state",
+    "home": "michigan state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "purdue",
+    "home": "washington"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "15:30",
+    "away": "san jose state",
+    "home": "nevada"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "south alabama",
+    "home": "louisiana-monroe"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "south carolina",
+    "home": "texas a&m"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "12:00",
+    "away": "south florida",
+    "home": "navy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "13:30",
+    "away": "tennessee tech",
+    "home": "kentucky"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "texas",
+    "home": "georgia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "texas christian",
+    "home": "brigham young"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "texas state",
+    "home": "southern mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "15:00",
+    "away": "texas-el paso",
+    "home": "missouri state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "texas-san antonio",
+    "home": "charlotte"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "ucla",
+    "home": "ohio state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "utah",
+    "home": "baylor"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "19:00",
+    "away": "utah state",
+    "home": "nevada-las vegas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "virginia",
+    "home": "duke"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "virginia tech",
+    "home": "florida state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "west virginia",
+    "home": "arizona state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "wisconsin",
+    "home": "indiana"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-15",
+    "time": "TBD",
+    "away": "wyoming",
+    "home": "fresno state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-18",
+    "time": "19:00",
+    "away": "akron",
+    "home": "bowling green"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-18",
+    "time": "19:00",
+    "away": "massachusetts",
+    "home": "ohio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-18",
+    "time": "19:00",
+    "away": "western michigan",
+    "home": "northern illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-19",
+    "time": "19:00",
+    "away": "central michigan",
+    "home": "kent state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-19",
+    "time": "19:00",
+    "away": "miami (oh)",
+    "home": "buffalo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-20",
+    "time": "19:30",
+    "away": "louisiana",
+    "home": "arkansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-21",
+    "time": "20:00",
+    "away": "florida state",
+    "home": "north carolina state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-21",
+    "time": "22:30",
+    "away": "hawaii",
+    "home": "nevada-las vegas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "arizona state",
+    "home": "colorado"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "arkansas",
+    "home": "texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "ball state",
+    "home": "toledo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "baylor",
+    "home": "arizona"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "brigham young",
+    "home": "cincinnati"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "california",
+    "home": "stanford"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "12:45",
+    "away": "charlotte",
+    "home": "georgia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "coastal carolina",
+    "home": "south carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "colorado state",
+    "home": "boise state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "connecticut",
+    "home": "florida atlantic"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "delaware",
+    "home": "wake forest"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "duke",
+    "home": "north carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "east carolina",
+    "home": "texas-san antonio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "14:00",
+    "away": "eastern illinois",
+    "home": "alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "furman",
+    "home": "clemson"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "georgia state",
+    "home": "troy"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "illinois",
+    "home": "wisconsin"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "04:30",
+    "away": "jacksonville state",
+    "home": "florida international"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "kansas",
+    "home": "iowa state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "kansas state",
+    "home": "utah"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "kentucky",
+    "home": "vanderbilt"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "15:00",
+    "away": "liberty",
+    "home": "louisiana tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "louisiana-monroe",
+    "home": "texas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "louisville",
+    "home": "southern methodist"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "marshall",
+    "home": "appalachian state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "14:00",
+    "away": "mercer",
+    "home": "auburn"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "miami (fl)",
+    "home": "virginia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "michigan",
+    "home": "maryland"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "michigan state",
+    "home": "iowa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "minnesota",
+    "home": "northwestern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "12:00",
+    "away": "missouri",
+    "home": "oklahoma"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "14:00",
+    "away": "missouri state",
+    "home": "kennesaw state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "nebraska",
+    "home": "penn state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "14:00",
+    "away": "nevada",
+    "home": "wyoming"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "19:00",
+    "away": "new mexico",
+    "home": "air force"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "15:00",
+    "away": "new mexico state",
+    "home": "texas-el paso"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "north texas",
+    "home": "rice"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "oklahoma state",
+    "home": "central florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "old dominion",
+    "home": "georgia southern"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "pittsburgh",
+    "home": "georgia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "rutgers",
+    "home": "ohio state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "15:00",
+    "away": "sam houston",
+    "home": "middle tennessee state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "12:00",
+    "away": "samford",
+    "home": "texas a&m"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "san jose state",
+    "home": "san diego state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "south florida",
+    "home": "alabama-birmingham"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "southern california",
+    "home": "oregon"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "southern mississippi",
+    "home": "south alabama"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "15:30",
+    "away": "syracuse",
+    "home": "notre dame"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "tennessee",
+    "home": "florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "texas christian",
+    "home": "houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "tulane",
+    "home": "temple"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "12:00",
+    "away": "tulsa",
+    "home": "army"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "22:30",
+    "away": "utah state",
+    "home": "fresno state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "washington",
+    "home": "ucla"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "washington state",
+    "home": "james madison"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-22",
+    "time": "TBD",
+    "away": "western kentucky",
+    "home": "louisiana state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-25",
+    "time": "TBD",
+    "away": "bowling green",
+    "home": "massachusetts"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-25",
+    "time": "TBD",
+    "away": "western michigan",
+    "home": "eastern michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-27",
+    "time": "19:30",
+    "away": "navy",
+    "home": "memphis"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "TBD",
+    "away": "air force",
+    "home": "colorado state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "TBD",
+    "away": "arizona",
+    "home": "arizona state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "TBD",
+    "away": "army",
+    "home": "texas-san antonio"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "16:00",
+    "away": "boise state",
+    "home": "utah state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "15:30",
+    "away": "georgia",
+    "home": "georgia tech"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "indiana",
+    "home": "purdue"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "12:00",
+    "away": "iowa",
+    "home": "nebraska"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "12:00",
+    "away": "kent state",
+    "home": "northern illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "12:00",
+    "away": "mississippi",
+    "home": "mississippi state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "12:00",
+    "away": "ohio",
+    "home": "buffalo"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "15:30",
+    "away": "san diego state",
+    "home": "new mexico"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "texas a&m",
+    "home": "texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-28",
+    "time": "12:00",
+    "away": "utah",
+    "home": "kansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "alabama",
+    "home": "auburn"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "alabama-birmingham",
+    "home": "tulsa"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "arkansas state",
+    "home": "appalachian state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "ball state",
+    "home": "miami (oh)"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "boston college",
+    "home": "syracuse"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "central florida",
+    "home": "brigham young"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "charlotte",
+    "home": "tulane"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "cincinnati",
+    "home": "texas christian"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "12:00",
+    "away": "clemson",
+    "home": "south carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "colorado",
+    "home": "kansas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "east carolina",
+    "home": "florida atlantic"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "13:00",
+    "away": "florida international",
+    "home": "sam houston"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "florida state",
+    "home": "florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "fresno state",
+    "home": "san jose state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "georgia southern",
+    "home": "marshall"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "georgia state",
+    "home": "old dominion"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "houston",
+    "home": "baylor"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "iowa state",
+    "home": "oklahoma state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "james madison",
+    "home": "coastal carolina"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "15:30",
+    "away": "kennesaw state",
+    "home": "liberty"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "kentucky",
+    "home": "louisville"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "louisiana state",
+    "home": "oklahoma"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "14:00",
+    "away": "louisiana tech",
+    "home": "missouri state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "louisiana-monroe",
+    "home": "louisiana"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "maryland",
+    "home": "michigan state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "miami (fl)",
+    "home": "pittsburgh"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "15:00",
+    "away": "middle tennessee state",
+    "home": "new mexico state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "missouri",
+    "home": "arkansas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "21:00",
+    "away": "nevada-las vegas",
+    "home": "nevada"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "north carolina",
+    "home": "north carolina state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "northwestern",
+    "home": "illinois"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "notre dame",
+    "home": "stanford"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "12:00",
+    "away": "ohio state",
+    "home": "michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "oregon",
+    "home": "washington"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "18:30",
+    "away": "oregon state",
+    "home": "washington state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "penn state",
+    "home": "rutgers"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "rice",
+    "home": "south florida"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "south alabama",
+    "home": "texas state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "southern methodist",
+    "home": "california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "temple",
+    "home": "north texas"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "texas tech",
+    "home": "west virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "13:00",
+    "away": "texas-el paso",
+    "home": "delaware"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "12:00",
+    "away": "toledo",
+    "home": "central michigan"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "troy",
+    "home": "southern mississippi"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "ucla",
+    "home": "southern california"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "vanderbilt",
+    "home": "tennessee"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "virginia tech",
+    "home": "virginia"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "wake forest",
+    "home": "duke"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "14:00",
+    "away": "western kentucky",
+    "home": "jacksonville state"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "TBD",
+    "away": "wisconsin",
+    "home": "minnesota"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-11-29",
+    "time": "23:00",
+    "away": "wyoming",
+    "home": "hawaii"
+  },
+  {
+    "sport": "ncaaf",
+    "date": "2025-12-13",
+    "time": "15:00",
+    "away": "army",
+    "home": "navy"
+  }
+]

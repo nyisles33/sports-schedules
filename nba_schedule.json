@@ -1,0 +1,7842 @@
+[
+  {
+    "sport": "nba",
+    "date": "2025-11-01",
+    "time": "17:00",
+    "away": "sacramento kings",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-01",
+    "time": "18:00",
+    "away": "minnesota timberwolves",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-01",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-01",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-01",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-01",
+    "time": "22:00",
+    "away": "dallas mavericks",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "15:30",
+    "away": "new orleans pelicans",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "18:00",
+    "away": "philadelphia 76ers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "18:00",
+    "away": "utah jazz",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "18:00",
+    "away": "atlanta hawks",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "18:00",
+    "away": "memphis grizzlies",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-02",
+    "time": "21:30",
+    "away": "miami heat",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "19:00",
+    "away": "minnesota timberwolves",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "19:30",
+    "away": "utah jazz",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "21:00",
+    "away": "sacramento kings",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "22:00",
+    "away": "los angeles lakers",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-03",
+    "time": "22:30",
+    "away": "miami heat",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-04",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-04",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-04",
+    "time": "20:00",
+    "away": "philadelphia 76ers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-04",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-04",
+    "time": "22:00",
+    "away": "phoenix suns",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-04",
+    "time": "23:00",
+    "away": "oklahoma city thunder",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "19:00",
+    "away": "utah jazz",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "19:00",
+    "away": "brooklyn nets",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "19:30",
+    "away": "minnesota timberwolves",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "20:30",
+    "away": "new orleans pelicans",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "21:00",
+    "away": "miami heat",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "22:00",
+    "away": "san antonio spurs",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "22:00",
+    "away": "oklahoma city thunder",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-05",
+    "time": "22:00",
+    "away": "golden state warriors",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-06",
+    "time": "21:00",
+    "away": "los angeles clippers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "19:00",
+    "away": "boston celtics",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "19:30",
+    "away": "toronto raptors",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "19:30",
+    "away": "detroit pistons",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "19:30",
+    "away": "houston rockets",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "22:00",
+    "away": "golden state warriors",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-07",
+    "time": "22:00",
+    "away": "oklahoma city thunder",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "19:00",
+    "away": "dallas mavericks",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "19:30",
+    "away": "toronto raptors",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "20:00",
+    "away": "new orleans pelicans",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "21:00",
+    "away": "indiana pacers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-08",
+    "time": "22:30",
+    "away": "phoenix suns",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-09",
+    "time": "15:30",
+    "away": "houston rockets",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-09",
+    "time": "18:00",
+    "away": "oklahoma city thunder",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-09",
+    "time": "18:00",
+    "away": "brooklyn nets",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-09",
+    "time": "18:00",
+    "away": "boston celtics",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-09",
+    "time": "19:30",
+    "away": "detroit pistons",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-09",
+    "time": "20:30",
+    "away": "indiana pacers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-09",
+    "time": "21:00",
+    "away": "minnesota timberwolves",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "19:00",
+    "away": "portland trail blazers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "19:30",
+    "away": "cleveland cavaliers",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "20:30",
+    "away": "milwaukee bucks",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "21:00",
+    "away": "new orleans pelicans",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "21:00",
+    "away": "minnesota timberwolves",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-10",
+    "time": "22:30",
+    "away": "atlanta hawks",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-11",
+    "time": "19:30",
+    "away": "toronto raptors",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-11",
+    "time": "19:30",
+    "away": "memphis grizzlies",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-11",
+    "time": "20:00",
+    "away": "golden state warriors",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-11",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-11",
+    "time": "21:00",
+    "away": "indiana pacers",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-11",
+    "time": "23:00",
+    "away": "denver nuggets",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "19:30",
+    "away": "memphis grizzlies",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "19:30",
+    "away": "cleveland cavaliers",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "20:00",
+    "away": "washington wizards",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "20:00",
+    "away": "golden state warriors",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "20:30",
+    "away": "phoenix suns",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "21:30",
+    "away": "los angeles lakers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "22:00",
+    "away": "atlanta hawks",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-12",
+    "time": "22:30",
+    "away": "denver nuggets",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-13",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-13",
+    "time": "21:00",
+    "away": "indiana pacers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-13",
+    "time": "21:00",
+    "away": "atlanta hawks",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "19:00",
+    "away": "brooklyn nets",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "19:30",
+    "away": "philadelphia 76ers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "20:30",
+    "away": "los angeles clippers",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-14",
+    "time": "21:30",
+    "away": "golden state warriors",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-15",
+    "time": "17:00",
+    "away": "memphis grizzlies",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-15",
+    "time": "19:00",
+    "away": "oklahoma city thunder",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-15",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-15",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-15",
+    "time": "20:00",
+    "away": "denver nuggets",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "15:30",
+    "away": "los angeles clippers",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "16:00",
+    "away": "sacramento kings",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "18:00",
+    "away": "brooklyn nets",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "19:30",
+    "away": "portland trail blazers",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "20:00",
+    "away": "atlanta hawks",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-16",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "19:00",
+    "away": "los angeles clippers",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "20:00",
+    "away": "oklahoma city thunder",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-17",
+    "time": "21:00",
+    "away": "chicago bulls",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-18",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-18",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-18",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-18",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-18",
+    "time": "22:30",
+    "away": "utah jazz",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-18",
+    "time": "23:00",
+    "away": "phoenix suns",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "19:00",
+    "away": "houston rockets",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "19:00",
+    "away": "charlotte hornets",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "20:00",
+    "away": "washington wizards",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "20:00",
+    "away": "denver nuggets",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "21:30",
+    "away": "new york knicks",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-19",
+    "time": "22:00",
+    "away": "chicago bulls",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-20",
+    "time": "19:00",
+    "away": "los angeles clippers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-20",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-20",
+    "time": "20:00",
+    "away": "philadelphia 76ers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-20",
+    "time": "20:00",
+    "away": "atlanta hawks",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "19:30",
+    "away": "brooklyn nets",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "20:00",
+    "away": "miami heat",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "20:30",
+    "away": "new orleans pelicans",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "21:00",
+    "away": "minnesota timberwolves",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "21:30",
+    "away": "denver nuggets",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "22:00",
+    "away": "portland trail blazers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-21",
+    "time": "22:00",
+    "away": "oklahoma city thunder",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-22",
+    "time": "13:00",
+    "away": "los angeles clippers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-22",
+    "time": "17:00",
+    "away": "new york knicks",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-22",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-22",
+    "time": "20:00",
+    "away": "washington wizards",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-22",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-22",
+    "time": "20:30",
+    "away": "memphis grizzlies",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-22",
+    "time": "21:00",
+    "away": "sacramento kings",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "miami heat",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "18:00",
+    "away": "charlotte hornets",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "18:00",
+    "away": "orlando magic",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "18:00",
+    "away": "los angeles clippers",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "18:00",
+    "away": "brooklyn nets",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "19:00",
+    "away": "portland trail blazers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-23",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "19:30",
+    "away": "dallas mavericks",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "20:00",
+    "away": "denver nuggets",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "21:30",
+    "away": "houston rockets",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "22:00",
+    "away": "utah jazz",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-24",
+    "time": "22:00",
+    "away": "minnesota timberwolves",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-25",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-25",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-25",
+    "time": "23:00",
+    "away": "los angeles clippers",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "17:00",
+    "away": "detroit pistons",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "19:00",
+    "away": "new york knicks",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "19:30",
+    "away": "minnesota timberwolves",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "22:00",
+    "away": "houston rockets",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "22:00",
+    "away": "san antonio spurs",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-26",
+    "time": "22:00",
+    "away": "phoenix suns",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "cleveland cavaliers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "philadelphia 76ers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "orlando magic",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "21:30",
+    "away": "san antonio spurs",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "21:30",
+    "away": "phoenix suns",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "21:30",
+    "away": "sacramento kings",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "22:00",
+    "away": "memphis grizzlies",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-28",
+    "time": "22:00",
+    "away": "dallas mavericks",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "17:00",
+    "away": "boston celtics",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "18:00",
+    "away": "toronto raptors",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "20:00",
+    "away": "brooklyn nets",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "20:30",
+    "away": "new orleans pelicans",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "21:00",
+    "away": "denver nuggets",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-29",
+    "time": "22:00",
+    "away": "dallas mavericks",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "15:00",
+    "away": "houston rockets",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "18:00",
+    "away": "boston celtics",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "18:00",
+    "away": "toronto raptors",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "18:00",
+    "away": "atlanta hawks",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "18:00",
+    "away": "oklahoma city thunder",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "19:00",
+    "away": "san antonio spurs",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "21:00",
+    "away": "memphis grizzlies",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-11-30",
+    "time": "21:30",
+    "away": "new orleans pelicans",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "19:30",
+    "away": "los angeles clippers",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "21:00",
+    "away": "dallas mavericks",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "21:00",
+    "away": "houston rockets",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-01",
+    "time": "22:00",
+    "away": "phoenix suns",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-02",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-02",
+    "time": "19:30",
+    "away": "portland trail blazers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-02",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-02",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-02",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-02",
+    "time": "23:00",
+    "away": "oklahoma city thunder",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "19:00",
+    "away": "portland trail blazers",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "19:00",
+    "away": "denver nuggets",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "19:00",
+    "away": "san antonio spurs",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "19:30",
+    "away": "los angeles clippers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "20:00",
+    "away": "brooklyn nets",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-03",
+    "time": "20:30",
+    "away": "miami heat",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-04",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-04",
+    "time": "19:00",
+    "away": "boston celtics",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-04",
+    "time": "19:30",
+    "away": "utah jazz",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-04",
+    "time": "19:30",
+    "away": "los angeles lakers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-04",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "19:30",
+    "away": "denver nuggets",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "19:30",
+    "away": "san antonio spurs",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "19:30",
+    "away": "portland trail blazers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "19:30",
+    "away": "utah jazz",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "20:00",
+    "away": "indiana pacers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "20:00",
+    "away": "philadelphia 76ers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-05",
+    "time": "21:30",
+    "away": "dallas mavericks",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-06",
+    "time": "17:00",
+    "away": "new orleans pelicans",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-06",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-06",
+    "time": "19:30",
+    "away": "golden state warriors",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-06",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-06",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-06",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-06",
+    "time": "20:30",
+    "away": "houston rockets",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-07",
+    "time": "12:00",
+    "away": "orlando magic",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-07",
+    "time": "15:30",
+    "away": "boston celtics",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-07",
+    "time": "18:00",
+    "away": "denver nuggets",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-07",
+    "time": "18:00",
+    "away": "portland trail blazers",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-07",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-07",
+    "time": "19:30",
+    "away": "los angeles lakers",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-07",
+    "time": "20:00",
+    "away": "oklahoma city thunder",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-08",
+    "time": "19:00",
+    "away": "sacramento kings",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-08",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-08",
+    "time": "21:30",
+    "away": "san antonio spurs",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-17",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-17",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-17",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-17",
+    "time": "20:00",
+    "away": "washington wizards",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "19:00",
+    "away": "new york knicks",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "19:30",
+    "away": "miami heat",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "20:30",
+    "away": "detroit pistons",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "21:00",
+    "away": "orlando magic",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "21:00",
+    "away": "golden state warriors",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "21:00",
+    "away": "los angeles lakers",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-18",
+    "time": "22:00",
+    "away": "sacramento kings",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-19",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-19",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-19",
+    "time": "19:30",
+    "away": "san antonio spurs",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-19",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-19",
+    "time": "21:30",
+    "away": "oklahoma city thunder",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "17:00",
+    "away": "houston rockets",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "19:00",
+    "away": "dallas mavericks",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "19:00",
+    "away": "boston celtics",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "20:00",
+    "away": "washington wizards",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "20:30",
+    "away": "phoenix suns",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "21:30",
+    "away": "orlando magic",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "22:00",
+    "away": "portland trail blazers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-20",
+    "time": "22:30",
+    "away": "los angeles lakers",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-21",
+    "time": "15:30",
+    "away": "chicago bulls",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-21",
+    "time": "18:00",
+    "away": "toronto raptors",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-21",
+    "time": "18:00",
+    "away": "miami heat",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-21",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-21",
+    "time": "19:00",
+    "away": "san antonio spurs",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-21",
+    "time": "22:00",
+    "away": "houston rockets",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-22",
+    "time": "19:00",
+    "away": "charlotte hornets",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-22",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-22",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-22",
+    "time": "21:00",
+    "away": "utah jazz",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-22",
+    "time": "21:30",
+    "away": "memphis grizzlies",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-22",
+    "time": "22:00",
+    "away": "orlando magic",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-22",
+    "time": "22:00",
+    "away": "detroit pistons",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "19:00",
+    "away": "brooklyn nets",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "19:30",
+    "away": "new orleans pelicans",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "19:30",
+    "away": "toronto raptors",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "20:00",
+    "away": "denver nuggets",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "20:30",
+    "away": "oklahoma city thunder",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "21:00",
+    "away": "los angeles lakers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "21:00",
+    "away": "memphis grizzlies",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "22:00",
+    "away": "orlando magic",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "22:00",
+    "away": "detroit pistons",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-23",
+    "time": "23:00",
+    "away": "houston rockets",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-25",
+    "time": "12:00",
+    "away": "cleveland cavaliers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-25",
+    "time": "14:30",
+    "away": "san antonio spurs",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-25",
+    "time": "17:00",
+    "away": "dallas mavericks",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-25",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-25",
+    "time": "22:30",
+    "away": "minnesota timberwolves",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "19:00",
+    "away": "charlotte hornets",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "20:00",
+    "away": "philadelphia 76ers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "20:00",
+    "away": "milwaukee bucks",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "21:30",
+    "away": "detroit pistons",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-26",
+    "time": "22:00",
+    "away": "los angeles clippers",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "17:00",
+    "away": "dallas mavericks",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "19:00",
+    "away": "phoenix suns",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "19:00",
+    "away": "denver nuggets",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "20:00",
+    "away": "milwaukee bucks",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "20:00",
+    "away": "indiana pacers",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "20:00",
+    "away": "brooklyn nets",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-27",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-28",
+    "time": "15:30",
+    "away": "philadelphia 76ers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-28",
+    "time": "15:30",
+    "away": "golden state warriors",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-28",
+    "time": "18:00",
+    "away": "boston celtics",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-28",
+    "time": "18:00",
+    "away": "memphis grizzlies",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-28",
+    "time": "21:00",
+    "away": "detroit pistons",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-28",
+    "time": "21:30",
+    "away": "sacramento kings",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "19:00",
+    "away": "phoenix suns",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "19:30",
+    "away": "golden state warriors",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "19:30",
+    "away": "denver nuggets",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "19:30",
+    "away": "orlando magic",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "20:00",
+    "away": "indiana pacers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "20:00",
+    "away": "atlanta hawks",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-29",
+    "time": "23:00",
+    "away": "dallas mavericks",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-30",
+    "time": "20:00",
+    "away": "philadelphia 76ers",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-30",
+    "time": "21:00",
+    "away": "boston celtics",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-30",
+    "time": "22:30",
+    "away": "detroit pistons",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-30",
+    "time": "23:00",
+    "away": "sacramento kings",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "13:00",
+    "away": "golden state warriors",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "15:00",
+    "away": "minnesota timberwolves",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "15:00",
+    "away": "orlando magic",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "15:30",
+    "away": "phoenix suns",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "19:00",
+    "away": "new york knicks",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "19:30",
+    "away": "denver nuggets",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "20:00",
+    "away": "washington wizards",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-31",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-01",
+    "time": "18:00",
+    "away": "houston rockets",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-01",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-01",
+    "time": "20:30",
+    "away": "philadelphia 76ers",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-01",
+    "time": "22:00",
+    "away": "boston celtics",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-01",
+    "time": "22:30",
+    "away": "utah jazz",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "19:00",
+    "away": "san antonio spurs",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "19:00",
+    "away": "brooklyn nets",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "19:30",
+    "away": "denver nuggets",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "21:00",
+    "away": "sacramento kings",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "22:00",
+    "away": "oklahoma city thunder",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-02",
+    "time": "22:30",
+    "away": "memphis grizzlies",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "17:00",
+    "away": "minnesota timberwolves",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "19:30",
+    "away": "philadelphia 76ers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "20:30",
+    "away": "houston rockets",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "22:00",
+    "away": "utah jazz",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-03",
+    "time": "22:30",
+    "away": "boston celtics",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "14:00",
+    "away": "detroit pistons",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "15:00",
+    "away": "indiana pacers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "15:30",
+    "away": "denver nuggets",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "18:00",
+    "away": "new orleans pelicans",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "18:00",
+    "away": "minnesota timberwolves",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "20:00",
+    "away": "oklahoma city thunder",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "21:00",
+    "away": "milwaukee bucks",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-04",
+    "time": "21:30",
+    "away": "memphis grizzlies",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "19:00",
+    "away": "new york knicks",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "20:30",
+    "away": "denver nuggets",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "22:00",
+    "away": "golden state warriors",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-05",
+    "time": "22:00",
+    "away": "utah jazz",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-06",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-06",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-06",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-06",
+    "time": "20:00",
+    "away": "miami heat",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-06",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-06",
+    "time": "23:00",
+    "away": "dallas mavericks",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:30",
+    "away": "new orleans pelicans",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:30",
+    "away": "denver nuggets",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:30",
+    "away": "orlando magic",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:30",
+    "away": "los angeles clippers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "19:30",
+    "away": "los angeles lakers",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "22:00",
+    "away": "milwaukee bucks",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-07",
+    "time": "22:00",
+    "away": "houston rockets",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-08",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-08",
+    "time": "20:00",
+    "away": "miami heat",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-08",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-08",
+    "time": "21:00",
+    "away": "dallas mavericks",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "19:30",
+    "away": "los angeles clippers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "20:00",
+    "away": "oklahoma city thunder",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "21:00",
+    "away": "atlanta hawks",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "21:00",
+    "away": "new york knicks",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "22:00",
+    "away": "sacramento kings",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "22:00",
+    "away": "houston rockets",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-09",
+    "time": "22:30",
+    "away": "milwaukee bucks",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-10",
+    "time": "13:00",
+    "away": "minnesota timberwolves",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-10",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-10",
+    "time": "19:30",
+    "away": "los angeles clippers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-10",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-10",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-10",
+    "time": "21:30",
+    "away": "charlotte hornets",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "15:00",
+    "away": "new orleans pelicans",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "15:30",
+    "away": "brooklyn nets",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "18:00",
+    "away": "new york knicks",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "18:00",
+    "away": "philadelphia 76ers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "19:00",
+    "away": "san antonio spurs",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "20:00",
+    "away": "milwaukee bucks",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "20:00",
+    "away": "washington wizards",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "20:30",
+    "away": "atlanta hawks",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-11",
+    "time": "21:00",
+    "away": "houston rockets",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-12",
+    "time": "19:00",
+    "away": "utah jazz",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-12",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-12",
+    "time": "19:30",
+    "away": "philadelphia 76ers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-12",
+    "time": "20:30",
+    "away": "brooklyn nets",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-12",
+    "time": "22:00",
+    "away": "los angeles lakers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-12",
+    "time": "22:30",
+    "away": "charlotte hornets",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-13",
+    "time": "19:30",
+    "away": "phoenix suns",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-13",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-13",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-13",
+    "time": "20:00",
+    "away": "denver nuggets",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-13",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-13",
+    "time": "22:30",
+    "away": "atlanta hawks",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-13",
+    "time": "23:00",
+    "away": "portland trail blazers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-14",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-14",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-14",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-14",
+    "time": "20:00",
+    "away": "brooklyn nets",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-14",
+    "time": "21:30",
+    "away": "denver nuggets",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-14",
+    "time": "22:00",
+    "away": "new york knicks",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-14",
+    "time": "22:30",
+    "away": "washington wizards",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "14:00",
+    "away": "memphis grizzlies",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "19:00",
+    "away": "phoenix suns",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "19:30",
+    "away": "oklahoma city thunder",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "20:00",
+    "away": "milwaukee bucks",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "20:30",
+    "away": "utah jazz",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "22:00",
+    "away": "new york knicks",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "22:00",
+    "away": "atlanta hawks",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-15",
+    "time": "22:30",
+    "away": "charlotte hornets",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-16",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-16",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-16",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-16",
+    "time": "19:30",
+    "away": "los angeles clippers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-16",
+    "time": "21:30",
+    "away": "minnesota timberwolves",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-16",
+    "time": "22:00",
+    "away": "washington wizards",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "17:00",
+    "away": "utah jazz",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "19:30",
+    "away": "phoenix suns",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "20:00",
+    "away": "oklahoma city thunder",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "20:30",
+    "away": "charlotte hornets",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "21:00",
+    "away": "washington wizards",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-17",
+    "time": "22:00",
+    "away": "los angeles lakers",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-18",
+    "time": "12:00",
+    "away": "orlando magic",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-18",
+    "time": "19:00",
+    "away": "brooklyn nets",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-18",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-18",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-18",
+    "time": "21:00",
+    "away": "portland trail blazers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-18",
+    "time": "21:30",
+    "away": "toronto raptors",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "13:00",
+    "away": "milwaukee bucks",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "14:30",
+    "away": "oklahoma city thunder",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "15:00",
+    "away": "los angeles clippers",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "17:00",
+    "away": "dallas mavericks",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "19:30",
+    "away": "phoenix suns",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-19",
+    "time": "22:00",
+    "away": "miami heat",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-20",
+    "time": "19:00",
+    "away": "phoenix suns",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-20",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-20",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-20",
+    "time": "21:00",
+    "away": "minnesota timberwolves",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-20",
+    "time": "22:00",
+    "away": "los angeles lakers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-20",
+    "time": "22:00",
+    "away": "toronto raptors",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-20",
+    "time": "22:00",
+    "away": "miami heat",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-21",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-21",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-21",
+    "time": "19:30",
+    "away": "brooklyn nets",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-21",
+    "time": "20:00",
+    "away": "atlanta hawks",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-21",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-21",
+    "time": "21:30",
+    "away": "oklahoma city thunder",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-21",
+    "time": "22:00",
+    "away": "toronto raptors",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "19:00",
+    "away": "charlotte hornets",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "19:00",
+    "away": "houston rockets",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "19:00",
+    "away": "denver nuggets",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "19:30",
+    "away": "golden state warriors",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "21:00",
+    "away": "san antonio spurs",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "22:00",
+    "away": "los angeles lakers",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-22",
+    "time": "22:00",
+    "away": "miami heat",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "19:00",
+    "away": "houston rockets",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "19:30",
+    "away": "phoenix suns",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "19:30",
+    "away": "sacramento kings",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "20:00",
+    "away": "new orleans pelicans",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "20:00",
+    "away": "denver nuggets",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "21:30",
+    "away": "indiana pacers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-23",
+    "time": "22:00",
+    "away": "toronto raptors",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-24",
+    "time": "15:00",
+    "away": "new york knicks",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-24",
+    "time": "17:30",
+    "away": "golden state warriors",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-24",
+    "time": "18:00",
+    "away": "washington wizards",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-24",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-24",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-24",
+    "time": "20:30",
+    "away": "los angeles lakers",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-24",
+    "time": "21:30",
+    "away": "miami heat",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-25",
+    "time": "15:00",
+    "away": "sacramento kings",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-25",
+    "time": "15:30",
+    "away": "denver nuggets",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-25",
+    "time": "19:00",
+    "away": "dallas mavericks",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-25",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-25",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-25",
+    "time": "20:00",
+    "away": "miami heat",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-25",
+    "time": "21:00",
+    "away": "brooklyn nets",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-26",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-26",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-26",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-26",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-26",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-26",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-26",
+    "time": "21:30",
+    "away": "golden state warriors",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-27",
+    "time": "19:00",
+    "away": "portland trail blazers",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-27",
+    "time": "19:30",
+    "away": "sacramento kings",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-27",
+    "time": "20:00",
+    "away": "new orleans pelicans",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-27",
+    "time": "20:00",
+    "away": "milwaukee bucks",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-27",
+    "time": "21:00",
+    "away": "detroit pistons",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-27",
+    "time": "21:00",
+    "away": "brooklyn nets",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-27",
+    "time": "22:00",
+    "away": "los angeles clippers",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "19:30",
+    "away": "orlando magic",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "20:30",
+    "away": "minnesota timberwolves",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "21:00",
+    "away": "golden state warriors",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-28",
+    "time": "21:30",
+    "away": "san antonio spurs",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-29",
+    "time": "19:00",
+    "away": "sacramento kings",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-29",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-29",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-29",
+    "time": "20:30",
+    "away": "charlotte hornets",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-29",
+    "time": "21:00",
+    "away": "brooklyn nets",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-29",
+    "time": "21:00",
+    "away": "detroit pistons",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-29",
+    "time": "21:30",
+    "away": "oklahoma city thunder",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "19:30",
+    "away": "sacramento kings",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "19:30",
+    "away": "memphis grizzlies",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "19:30",
+    "away": "portland trail blazers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "21:00",
+    "away": "cleveland cavaliers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "21:30",
+    "away": "brooklyn nets",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "22:00",
+    "away": "los angeles clippers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-30",
+    "time": "22:00",
+    "away": "detroit pistons",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-31",
+    "time": "15:00",
+    "away": "san antonio spurs",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-31",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-31",
+    "time": "19:30",
+    "away": "new orleans pelicans",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-31",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-01-31",
+    "time": "20:30",
+    "away": "dallas mavericks",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "15:30",
+    "away": "milwaukee bucks",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "16:00",
+    "away": "orlando magic",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "18:00",
+    "away": "brooklyn nets",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "18:00",
+    "away": "chicago bulls",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "18:00",
+    "away": "utah jazz",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "18:00",
+    "away": "sacramento kings",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "21:00",
+    "away": "cleveland cavaliers",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-01",
+    "time": "21:30",
+    "away": "oklahoma city thunder",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-02",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-02",
+    "time": "19:00",
+    "away": "houston rockets",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-02",
+    "time": "21:30",
+    "away": "minnesota timberwolves",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-02",
+    "time": "22:30",
+    "away": "philadelphia 76ers",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "19:00",
+    "away": "denver nuggets",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "19:00",
+    "away": "utah jazz",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "19:00",
+    "away": "new york knicks",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "19:30",
+    "away": "los angeles lakers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "22:00",
+    "away": "philadelphia 76ers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-03",
+    "time": "23:00",
+    "away": "phoenix suns",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-04",
+    "time": "19:00",
+    "away": "denver nuggets",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-04",
+    "time": "19:30",
+    "away": "minnesota timberwolves",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-04",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-04",
+    "time": "20:00",
+    "away": "new orleans pelicans",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-04",
+    "time": "21:30",
+    "away": "oklahoma city thunder",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-04",
+    "time": "22:00",
+    "away": "memphis grizzlies",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-04",
+    "time": "22:30",
+    "away": "cleveland cavaliers",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "19:00",
+    "away": "brooklyn nets",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "19:30",
+    "away": "utah jazz",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "20:30",
+    "away": "san antonio spurs",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "21:00",
+    "away": "golden state warriors",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-05",
+    "time": "22:00",
+    "away": "philadelphia 76ers",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-06",
+    "time": "19:30",
+    "away": "miami heat",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-06",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-06",
+    "time": "20:00",
+    "away": "indiana pacers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-06",
+    "time": "20:00",
+    "away": "new orleans pelicans",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-06",
+    "time": "22:00",
+    "away": "memphis grizzlies",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-06",
+    "time": "22:00",
+    "away": "los angeles clippers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "15:00",
+    "away": "washington wizards",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "15:30",
+    "away": "houston rockets",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "18:00",
+    "away": "dallas mavericks",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "19:00",
+    "away": "utah jazz",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "20:00",
+    "away": "denver nuggets",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "20:30",
+    "away": "golden state warriors",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "21:00",
+    "away": "philadelphia 76ers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "22:00",
+    "away": "memphis grizzlies",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-07",
+    "time": "22:00",
+    "away": "cleveland cavaliers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-08",
+    "time": "12:30",
+    "away": "new york knicks",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-08",
+    "time": "14:00",
+    "away": "miami heat",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-08",
+    "time": "15:00",
+    "away": "los angeles clippers",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-08",
+    "time": "15:00",
+    "away": "indiana pacers",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "19:30",
+    "away": "utah jazz",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "20:00",
+    "away": "atlanta hawks",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "21:00",
+    "away": "cleveland cavaliers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "22:00",
+    "away": "memphis grizzlies",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "22:00",
+    "away": "oklahoma city thunder",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-09",
+    "time": "22:00",
+    "away": "philadelphia 76ers",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-10",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-10",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-10",
+    "time": "21:00",
+    "away": "dallas mavericks",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-10",
+    "time": "22:30",
+    "away": "san antonio spurs",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "19:00",
+    "away": "milwaukee bucks",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "19:30",
+    "away": "detroit pistons",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "20:00",
+    "away": "miami heat",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "21:00",
+    "away": "oklahoma city thunder",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "21:00",
+    "away": "sacramento kings",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "22:00",
+    "away": "memphis grizzlies",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-11",
+    "time": "22:00",
+    "away": "san antonio spurs",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-12",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-12",
+    "time": "21:00",
+    "away": "portland trail blazers",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-12",
+    "time": "22:00",
+    "away": "dallas mavericks",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "19:00",
+    "away": "houston rockets",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "19:00",
+    "away": "brooklyn nets",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "19:30",
+    "away": "detroit pistons",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "20:30",
+    "away": "phoenix suns",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "22:00",
+    "away": "boston celtics",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "22:00",
+    "away": "orlando magic",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-19",
+    "time": "22:30",
+    "away": "denver nuggets",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "19:00",
+    "away": "utah jazz",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "19:30",
+    "away": "miami heat",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "19:30",
+    "away": "dallas mavericks",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "20:00",
+    "away": "milwaukee bucks",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "20:00",
+    "away": "brooklyn nets",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "22:00",
+    "away": "los angeles clippers",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-20",
+    "time": "22:00",
+    "away": "denver nuggets",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-21",
+    "time": "17:00",
+    "away": "orlando magic",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-21",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-21",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-21",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-21",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-21",
+    "time": "20:30",
+    "away": "houston rockets",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "13:00",
+    "away": "cleveland cavaliers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "15:30",
+    "away": "brooklyn nets",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "15:30",
+    "away": "denver nuggets",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "15:30",
+    "away": "toronto raptors",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "17:00",
+    "away": "dallas mavericks",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "18:00",
+    "away": "charlotte hornets",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "18:30",
+    "away": "boston celtics",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-22",
+    "time": "21:00",
+    "away": "orlando magic",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-23",
+    "time": "19:00",
+    "away": "san antonio spurs",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-23",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-23",
+    "time": "21:30",
+    "away": "utah jazz",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "19:30",
+    "away": "dallas mavericks",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "19:30",
+    "away": "oklahoma city thunder",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "20:00",
+    "away": "miami heat",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "20:00",
+    "away": "golden state warriors",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "21:00",
+    "away": "boston celtics",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "22:30",
+    "away": "orlando magic",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-24",
+    "time": "23:00",
+    "away": "minnesota timberwolves",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-25",
+    "time": "19:00",
+    "away": "oklahoma city thunder",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-25",
+    "time": "19:30",
+    "away": "golden state warriors",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-25",
+    "time": "19:30",
+    "away": "san antonio spurs",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-25",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-25",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-25",
+    "time": "22:00",
+    "away": "boston celtics",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "19:00",
+    "away": "charlotte hornets",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "19:30",
+    "away": "san antonio spurs",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "19:30",
+    "away": "houston rockets",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "20:30",
+    "away": "sacramento kings",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "21:00",
+    "away": "los angeles lakers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "21:00",
+    "away": "new orleans pelicans",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-26",
+    "time": "22:00",
+    "away": "minnesota timberwolves",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-27",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-27",
+    "time": "19:30",
+    "away": "brooklyn nets",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-27",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-27",
+    "time": "20:30",
+    "away": "memphis grizzlies",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-27",
+    "time": "21:30",
+    "away": "denver nuggets",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-28",
+    "time": "13:00",
+    "away": "portland trail blazers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-28",
+    "time": "15:00",
+    "away": "houston rockets",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-28",
+    "time": "19:00",
+    "away": "toronto raptors",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-28",
+    "time": "20:30",
+    "away": "los angeles lakers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-02-28",
+    "time": "21:30",
+    "away": "new orleans pelicans",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "13:00",
+    "away": "san antonio spurs",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "15:30",
+    "away": "cleveland cavaliers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "15:30",
+    "away": "milwaukee bucks",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "15:30",
+    "away": "minnesota timberwolves",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "17:00",
+    "away": "memphis grizzlies",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "18:00",
+    "away": "portland trail blazers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "18:00",
+    "away": "philadelphia 76ers",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "18:00",
+    "away": "detroit pistons",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "20:00",
+    "away": "oklahoma city thunder",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "21:00",
+    "away": "new orleans pelicans",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-01",
+    "time": "21:30",
+    "away": "sacramento kings",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-02",
+    "time": "19:00",
+    "away": "houston rockets",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-02",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-02",
+    "time": "21:00",
+    "away": "denver nuggets",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-02",
+    "time": "22:00",
+    "away": "los angeles clippers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "19:00",
+    "away": "dallas mavericks",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "19:30",
+    "away": "brooklyn nets",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "20:00",
+    "away": "oklahoma city thunder",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "22:30",
+    "away": "new orleans pelicans",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-03",
+    "time": "23:00",
+    "away": "phoenix suns",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-04",
+    "time": "19:00",
+    "away": "oklahoma city thunder",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-04",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-04",
+    "time": "19:30",
+    "away": "utah jazz",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-04",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-04",
+    "time": "21:30",
+    "away": "atlanta hawks",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-04",
+    "time": "22:30",
+    "away": "indiana pacers",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "19:00",
+    "away": "dallas mavericks",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "19:00",
+    "away": "utah jazz",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "19:30",
+    "away": "golden state warriors",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "19:30",
+    "away": "brooklyn nets",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "21:00",
+    "away": "chicago bulls",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "22:00",
+    "away": "los angeles lakers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-05",
+    "time": "22:00",
+    "away": "new orleans pelicans",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-06",
+    "time": "19:00",
+    "away": "dallas mavericks",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-06",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-06",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-06",
+    "time": "21:00",
+    "away": "new york knicks",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-06",
+    "time": "21:00",
+    "away": "new orleans pelicans",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-06",
+    "time": "21:30",
+    "away": "los angeles clippers",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-06",
+    "time": "22:30",
+    "away": "indiana pacers",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-07",
+    "time": "15:00",
+    "away": "orlando magic",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-07",
+    "time": "18:00",
+    "away": "brooklyn nets",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-07",
+    "time": "19:30",
+    "away": "philadelphia 76ers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-07",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-07",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-07",
+    "time": "20:30",
+    "away": "golden state warriors",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "13:00",
+    "away": "boston celtics",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "15:30",
+    "away": "new york knicks",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "18:00",
+    "away": "detroit pistons",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "18:00",
+    "away": "dallas mavericks",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "21:00",
+    "away": "charlotte hornets",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "21:00",
+    "away": "indiana pacers",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-08",
+    "time": "21:00",
+    "away": "chicago bulls",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-09",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-09",
+    "time": "19:30",
+    "away": "memphis grizzlies",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-09",
+    "time": "19:30",
+    "away": "denver nuggets",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-09",
+    "time": "21:00",
+    "away": "golden state warriors",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-09",
+    "time": "22:00",
+    "away": "new york knicks",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "19:00",
+    "away": "memphis grizzlies",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "19:30",
+    "away": "detroit pistons",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "22:00",
+    "away": "chicago bulls",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "22:00",
+    "away": "charlotte hornets",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "22:00",
+    "away": "indiana pacers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-10",
+    "time": "23:00",
+    "away": "minnesota timberwolves",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-11",
+    "time": "19:30",
+    "away": "cleveland cavaliers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-11",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-11",
+    "time": "21:00",
+    "away": "new york knicks",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-11",
+    "time": "22:00",
+    "away": "houston rockets",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-11",
+    "time": "22:00",
+    "away": "charlotte hornets",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-11",
+    "time": "22:30",
+    "away": "minnesota timberwolves",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "19:00",
+    "away": "phoenix suns",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "19:00",
+    "away": "washington wizards",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "19:30",
+    "away": "brooklyn nets",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "21:00",
+    "away": "denver nuggets",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "21:30",
+    "away": "boston celtics",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-12",
+    "time": "22:30",
+    "away": "chicago bulls",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "19:30",
+    "away": "memphis grizzlies",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "19:30",
+    "away": "phoenix suns",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "20:00",
+    "away": "new orleans pelicans",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "20:30",
+    "away": "cleveland cavaliers",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "22:00",
+    "away": "minnesota timberwolves",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "22:00",
+    "away": "utah jazz",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-13",
+    "time": "22:30",
+    "away": "chicago bulls",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-14",
+    "time": "13:00",
+    "away": "brooklyn nets",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-14",
+    "time": "15:00",
+    "away": "milwaukee bucks",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-14",
+    "time": "18:00",
+    "away": "washington wizards",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-14",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-14",
+    "time": "20:00",
+    "away": "charlotte hornets",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-14",
+    "time": "20:30",
+    "away": "denver nuggets",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-14",
+    "time": "22:30",
+    "away": "sacramento kings",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-15",
+    "time": "13:00",
+    "away": "minnesota timberwolves",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-15",
+    "time": "15:30",
+    "away": "dallas mavericks",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-15",
+    "time": "15:30",
+    "away": "indiana pacers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-15",
+    "time": "15:30",
+    "away": "detroit pistons",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-15",
+    "time": "18:00",
+    "away": "portland trail blazers",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-15",
+    "time": "20:00",
+    "away": "golden state warriors",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-15",
+    "time": "22:00",
+    "away": "utah jazz",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "19:30",
+    "away": "portland trail blazers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "21:00",
+    "away": "los angeles lakers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-16",
+    "time": "22:30",
+    "away": "san antonio spurs",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "19:00",
+    "away": "oklahoma city thunder",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "21:00",
+    "away": "philadelphia 76ers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-17",
+    "time": "23:00",
+    "away": "san antonio spurs",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "19:00",
+    "away": "golden state warriors",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "19:30",
+    "away": "oklahoma city thunder",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "19:30",
+    "away": "portland trail blazers",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "20:30",
+    "away": "atlanta hawks",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-18",
+    "time": "21:30",
+    "away": "los angeles lakers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "20:00",
+    "away": "los angeles clippers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "21:00",
+    "away": "milwaukee bucks",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-19",
+    "time": "22:00",
+    "away": "philadelphia 76ers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-20",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-20",
+    "time": "19:30",
+    "away": "golden state warriors",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-20",
+    "time": "20:00",
+    "away": "atlanta hawks",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-20",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-20",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-20",
+    "time": "21:00",
+    "away": "toronto raptors",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "17:00",
+    "away": "oklahoma city thunder",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "19:00",
+    "away": "memphis grizzlies",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "19:00",
+    "away": "cleveland cavaliers",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "20:00",
+    "away": "golden state warriors",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "20:00",
+    "away": "miami heat",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "20:00",
+    "away": "indiana pacers",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "20:30",
+    "away": "los angeles clippers",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "21:30",
+    "away": "philadelphia 76ers",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-21",
+    "time": "22:00",
+    "away": "milwaukee bucks",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-22",
+    "time": "17:00",
+    "away": "portland trail blazers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-22",
+    "time": "18:00",
+    "away": "brooklyn nets",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-22",
+    "time": "19:30",
+    "away": "washington wizards",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-22",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-22",
+    "time": "21:00",
+    "away": "toronto raptors",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "19:00",
+    "away": "memphis grizzlies",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "19:00",
+    "away": "oklahoma city thunder",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "19:30",
+    "away": "san antonio spurs",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "21:00",
+    "away": "toronto raptors",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "21:30",
+    "away": "golden state warriors",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "22:00",
+    "away": "brooklyn nets",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-23",
+    "time": "22:30",
+    "away": "milwaukee bucks",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-24",
+    "time": "19:00",
+    "away": "sacramento kings",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-24",
+    "time": "19:30",
+    "away": "new orleans pelicans",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-24",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-24",
+    "time": "23:00",
+    "away": "denver nuggets",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "19:00",
+    "away": "los angeles lakers",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "19:30",
+    "away": "oklahoma city thunder",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "19:30",
+    "away": "miami heat",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "20:00",
+    "away": "san antonio spurs",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "21:00",
+    "away": "washington wizards",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "21:30",
+    "away": "houston rockets",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "22:00",
+    "away": "dallas mavericks",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "22:00",
+    "away": "brooklyn nets",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "22:00",
+    "away": "milwaukee bucks",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-25",
+    "time": "22:30",
+    "away": "toronto raptors",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-26",
+    "time": "19:00",
+    "away": "new york knicks",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-26",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-26",
+    "time": "19:00",
+    "away": "sacramento kings",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "19:00",
+    "away": "los angeles clippers",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "19:30",
+    "away": "miami heat",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "20:00",
+    "away": "houston rockets",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "20:30",
+    "away": "new orleans pelicans",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "21:00",
+    "away": "utah jazz",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "22:00",
+    "away": "washington wizards",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "22:00",
+    "away": "dallas mavericks",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-27",
+    "time": "22:30",
+    "away": "brooklyn nets",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-28",
+    "time": "15:00",
+    "away": "san antonio spurs",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-28",
+    "time": "18:00",
+    "away": "philadelphia 76ers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-28",
+    "time": "19:30",
+    "away": "sacramento kings",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-28",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-28",
+    "time": "20:00",
+    "away": "detroit pistons",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-28",
+    "time": "22:00",
+    "away": "utah jazz",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "15:30",
+    "away": "los angeles clippers",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "17:00",
+    "away": "miami heat",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "18:00",
+    "away": "sacramento kings",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "18:00",
+    "away": "boston celtics",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "18:00",
+    "away": "washington wizards",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "18:00",
+    "away": "orlando magic",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "19:00",
+    "away": "houston rockets",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "19:30",
+    "away": "new york knicks",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-29",
+    "time": "22:00",
+    "away": "golden state warriors",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "20:00",
+    "away": "phoenix suns",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "20:00",
+    "away": "chicago bulls",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "20:30",
+    "away": "minnesota timberwolves",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "21:00",
+    "away": "cleveland cavaliers",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "21:30",
+    "away": "detroit pistons",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-30",
+    "time": "22:00",
+    "away": "washington wizards",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-31",
+    "time": "19:00",
+    "away": "phoenix suns",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-31",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-31",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-31",
+    "time": "20:00",
+    "away": "new york knicks",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-31",
+    "time": "22:30",
+    "away": "cleveland cavaliers",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-03-31",
+    "time": "23:00",
+    "away": "portland trail blazers",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "19:00",
+    "away": "philadelphia 76ers",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "20:00",
+    "away": "indiana pacers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "20:00",
+    "away": "milwaukee bucks",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "20:00",
+    "away": "sacramento kings",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "21:00",
+    "away": "denver nuggets",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-01",
+    "time": "22:00",
+    "away": "san antonio spurs",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-02",
+    "time": "19:00",
+    "away": "phoenix suns",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-02",
+    "time": "19:00",
+    "away": "minnesota timberwolves",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-02",
+    "time": "19:30",
+    "away": "los angeles lakers",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-02",
+    "time": "22:00",
+    "away": "cleveland cavaliers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-02",
+    "time": "22:00",
+    "away": "new orleans pelicans",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-02",
+    "time": "22:30",
+    "away": "san antonio spurs",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "19:00",
+    "away": "indiana pacers",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "19:00",
+    "away": "minnesota timberwolves",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "19:30",
+    "away": "atlanta hawks",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "19:30",
+    "away": "chicago bulls",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "20:00",
+    "away": "toronto raptors",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "20:00",
+    "away": "boston celtics",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "20:30",
+    "away": "orlando magic",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-03",
+    "time": "22:00",
+    "away": "new orleans pelicans",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-04",
+    "time": "15:00",
+    "away": "washington wizards",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-04",
+    "time": "15:00",
+    "away": "san antonio spurs",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-04",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "15:30",
+    "away": "toronto raptors",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "15:30",
+    "away": "washington wizards",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "15:30",
+    "away": "phoenix suns",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "15:30",
+    "away": "memphis grizzlies",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "18:00",
+    "away": "indiana pacers",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "19:00",
+    "away": "charlotte hornets",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "19:00",
+    "away": "orlando magic",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "19:00",
+    "away": "utah jazz",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "19:30",
+    "away": "los angeles lakers",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "21:00",
+    "away": "los angeles clippers",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-05",
+    "time": "22:00",
+    "away": "houston rockets",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-06",
+    "time": "19:00",
+    "away": "new york knicks",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-06",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-06",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "memphis grizzlies"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-06",
+    "time": "20:00",
+    "away": "philadelphia 76ers",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-06",
+    "time": "21:00",
+    "away": "portland trail blazers",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "19:30",
+    "away": "charlotte hornets",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "19:30",
+    "away": "miami heat",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "20:00",
+    "away": "utah jazz",
+    "home": "new orleans pelicans"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "22:00",
+    "away": "sacramento kings",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "22:30",
+    "away": "oklahoma city thunder",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "22:30",
+    "away": "dallas mavericks",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-07",
+    "time": "23:00",
+    "away": "houston rockets",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-08",
+    "time": "19:00",
+    "away": "atlanta hawks",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-08",
+    "time": "19:00",
+    "away": "minnesota timberwolves",
+    "home": "orlando magic"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-08",
+    "time": "19:30",
+    "away": "milwaukee bucks",
+    "home": "detroit pistons"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-08",
+    "time": "20:00",
+    "away": "portland trail blazers",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-08",
+    "time": "21:00",
+    "away": "memphis grizzlies",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-08",
+    "time": "22:00",
+    "away": "oklahoma city thunder",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-08",
+    "time": "22:00",
+    "away": "dallas mavericks",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-09",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-09",
+    "time": "19:00",
+    "away": "chicago bulls",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-09",
+    "time": "19:30",
+    "away": "indiana pacers",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-09",
+    "time": "19:30",
+    "away": "boston celtics",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-09",
+    "time": "20:00",
+    "away": "philadelphia 76ers",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-09",
+    "time": "22:00",
+    "away": "los angeles lakers",
+    "home": "golden state warriors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "19:00",
+    "away": "miami heat",
+    "home": "washington wizards"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "charlotte hornets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "19:30",
+    "away": "new orleans pelicans",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "19:30",
+    "away": "philadelphia 76ers",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "19:30",
+    "away": "cleveland cavaliers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "19:30",
+    "away": "toronto raptors",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "20:00",
+    "away": "orlando magic",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "20:00",
+    "away": "minnesota timberwolves",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "20:00",
+    "away": "brooklyn nets",
+    "home": "milwaukee bucks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "20:00",
+    "away": "dallas mavericks",
+    "home": "san antonio spurs"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "21:30",
+    "away": "memphis grizzlies",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "22:00",
+    "away": "oklahoma city thunder",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "22:00",
+    "away": "los angeles clippers",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "22:00",
+    "away": "golden state warriors",
+    "home": "sacramento kings"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-10",
+    "time": "22:30",
+    "away": "phoenix suns",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "18:00",
+    "away": "orlando magic",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "18:00",
+    "away": "washington wizards",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "18:00",
+    "away": "detroit pistons",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "18:00",
+    "away": "atlanta hawks",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "18:00",
+    "away": "charlotte hornets",
+    "home": "new york knicks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "18:00",
+    "away": "milwaukee bucks",
+    "home": "philadelphia 76ers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "18:00",
+    "away": "brooklyn nets",
+    "home": "toronto raptors"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "chicago bulls",
+    "home": "dallas mavericks"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "memphis grizzlies",
+    "home": "houston rockets"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "golden state warriors",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "utah jazz",
+    "home": "los angeles lakers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "new orleans pelicans",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "phoenix suns",
+    "home": "oklahoma city thunder"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "sacramento kings",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2026-04-12",
+    "time": "20:30",
+    "away": "denver nuggets",
+    "home": "san antonio spurs"
+  }
+]

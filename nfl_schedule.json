@@ -1,0 +1,1570 @@
+[
+  {
+    "sport": "nfl",
+    "date": "2025-09-25",
+    "time": "20:15",
+    "away": "seattle seahawks",
+    "home": "arizona cardinals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "09:30",
+    "away": "minnesota vikings",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "13:00",
+    "away": "carolina panthers",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "13:00",
+    "away": "cleveland browns",
+    "home": "detroit lions"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "13:00",
+    "away": "new orleans saints",
+    "home": "buffalo bills"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "13:00",
+    "away": "tennessee titans",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "13:00",
+    "away": "philadelphia eagles",
+    "home": "tampa bay buccaneers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "13:00",
+    "away": "los angeles chargers",
+    "home": "new york giants"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "13:00",
+    "away": "washington commanders",
+    "home": "atlanta falcons"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "16:05",
+    "away": "indianapolis colts",
+    "home": "los angeles rams"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "16:05",
+    "away": "jacksonville jaguars",
+    "home": "san francisco 49ers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "16:25",
+    "away": "chicago bears",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "16:25",
+    "away": "baltimore ravens",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-28",
+    "time": "20:20",
+    "away": "green bay packers",
+    "home": "dallas cowboys"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-29",
+    "time": "19:15",
+    "away": "new york jets",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-09-29",
+    "time": "20:15",
+    "away": "cincinnati bengals",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-02",
+    "time": "20:15",
+    "away": "san francisco 49ers",
+    "home": "los angeles rams"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "09:30",
+    "away": "minnesota vikings",
+    "home": "cleveland browns"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "13:00",
+    "away": "dallas cowboys",
+    "home": "new york jets"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "13:00",
+    "away": "denver broncos",
+    "home": "philadelphia eagles"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "13:00",
+    "away": "houston texans",
+    "home": "baltimore ravens"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "13:00",
+    "away": "miami dolphins",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "13:00",
+    "away": "new york giants",
+    "home": "new orleans saints"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "13:00",
+    "away": "las vegas raiders",
+    "home": "indianapolis colts"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "16:05",
+    "away": "tennessee titans",
+    "home": "arizona cardinals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "16:05",
+    "away": "tampa bay buccaneers",
+    "home": "seattle seahawks"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "16:25",
+    "away": "detroit lions",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "16:25",
+    "away": "washington commanders",
+    "home": "los angeles chargers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-05",
+    "time": "20:20",
+    "away": "new england patriots",
+    "home": "buffalo bills"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-06",
+    "time": "20:15",
+    "away": "kansas city chiefs",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-09",
+    "time": "20:15",
+    "away": "philadelphia eagles",
+    "home": "new york giants"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "09:30",
+    "away": "denver broncos",
+    "home": "new york jets"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "13:00",
+    "away": "cleveland browns",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "13:00",
+    "away": "arizona cardinals",
+    "home": "indianapolis colts"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "13:00",
+    "away": "dallas cowboys",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "13:00",
+    "away": "los angeles rams",
+    "home": "baltimore ravens"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "13:00",
+    "away": "los angeles chargers",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "13:00",
+    "away": "seattle seahawks",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "13:00",
+    "away": "san francisco 49ers",
+    "home": "tampa bay buccaneers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "16:05",
+    "away": "tennessee titans",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "16:25",
+    "away": "cincinnati bengals",
+    "home": "green bay packers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "16:25",
+    "away": "new england patriots",
+    "home": "new orleans saints"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-12",
+    "time": "20:20",
+    "away": "detroit lions",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-13",
+    "time": "19:15",
+    "away": "buffalo bills",
+    "home": "atlanta falcons"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-13",
+    "time": "20:15",
+    "away": "chicago bears",
+    "home": "washington commanders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-16",
+    "time": "20:15",
+    "away": "pittsburgh steelers",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "09:30",
+    "away": "los angeles rams",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "13:00",
+    "away": "carolina panthers",
+    "home": "new york jets"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "13:00",
+    "away": "miami dolphins",
+    "home": "cleveland browns"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "13:00",
+    "away": "new orleans saints",
+    "home": "chicago bears"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "13:00",
+    "away": "new england patriots",
+    "home": "tennessee titans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "13:00",
+    "away": "philadelphia eagles",
+    "home": "minnesota vikings"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "13:00",
+    "away": "las vegas raiders",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "16:05",
+    "away": "indianapolis colts",
+    "home": "los angeles chargers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "16:05",
+    "away": "new york giants",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "16:25",
+    "away": "green bay packers",
+    "home": "arizona cardinals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "16:25",
+    "away": "washington commanders",
+    "home": "dallas cowboys"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-19",
+    "time": "20:20",
+    "away": "atlanta falcons",
+    "home": "san francisco 49ers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-20",
+    "time": "19:00",
+    "away": "tampa bay buccaneers",
+    "home": "detroit lions"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-20",
+    "time": "22:00",
+    "away": "houston texans",
+    "home": "seattle seahawks"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-23",
+    "time": "20:15",
+    "away": "minnesota vikings",
+    "home": "los angeles chargers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "13:00",
+    "away": "buffalo bills",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "13:00",
+    "away": "chicago bears",
+    "home": "baltimore ravens"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "13:00",
+    "away": "cleveland browns",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "13:00",
+    "away": "miami dolphins",
+    "home": "atlanta falcons"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "13:00",
+    "away": "new york giants",
+    "home": "philadelphia eagles"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "13:00",
+    "away": "new york jets",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "13:00",
+    "away": "san francisco 49ers",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "16:05",
+    "away": "tampa bay buccaneers",
+    "home": "new orleans saints"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "16:25",
+    "away": "dallas cowboys",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "16:25",
+    "away": "tennessee titans",
+    "home": "indianapolis colts"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-26",
+    "time": "20:20",
+    "away": "green bay packers",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-27",
+    "time": "20:15",
+    "away": "washington commanders",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-10-30",
+    "time": "20:15",
+    "away": "baltimore ravens",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "atlanta falcons",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "carolina panthers",
+    "home": "green bay packers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "chicago bears",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "indianapolis colts",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "denver broncos",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "minnesota vikings",
+    "home": "detroit lions"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "los angeles chargers",
+    "home": "tennessee titans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "away": "san francisco 49ers",
+    "home": "new york giants"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "16:05",
+    "away": "jacksonville jaguars",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "16:05",
+    "away": "new orleans saints",
+    "home": "los angeles rams"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "16:25",
+    "away": "kansas city chiefs",
+    "home": "buffalo bills"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-02",
+    "time": "20:20",
+    "away": "seattle seahawks",
+    "home": "washington commanders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-03",
+    "time": "20:15",
+    "away": "arizona cardinals",
+    "home": "dallas cowboys"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-06",
+    "time": "20:15",
+    "away": "las vegas raiders",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "09:30",
+    "away": "atlanta falcons",
+    "home": "indianapolis colts"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "13:00",
+    "away": "buffalo bills",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "13:00",
+    "away": "cleveland browns",
+    "home": "new york jets"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "13:00",
+    "away": "jacksonville jaguars",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "13:00",
+    "away": "new orleans saints",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "13:00",
+    "away": "new england patriots",
+    "home": "tampa bay buccaneers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "13:00",
+    "away": "new york giants",
+    "home": "chicago bears"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "13:00",
+    "away": "baltimore ravens",
+    "home": "minnesota vikings"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "16:05",
+    "away": "arizona cardinals",
+    "home": "seattle seahawks"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "16:25",
+    "away": "detroit lions",
+    "home": "washington commanders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "16:25",
+    "away": "los angeles rams",
+    "home": "san francisco 49ers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-09",
+    "time": "20:20",
+    "away": "pittsburgh steelers",
+    "home": "los angeles chargers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-10",
+    "time": "20:15",
+    "away": "philadelphia eagles",
+    "home": "green bay packers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-13",
+    "time": "20:15",
+    "away": "new york jets",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "09:30",
+    "away": "washington commanders",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "13:00",
+    "away": "carolina panthers",
+    "home": "atlanta falcons"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "13:00",
+    "away": "chicago bears",
+    "home": "minnesota vikings"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "13:00",
+    "away": "cincinnati bengals",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "13:00",
+    "away": "green bay packers",
+    "home": "new york giants"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "13:00",
+    "away": "houston texans",
+    "home": "tennessee titans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "13:00",
+    "away": "los angeles chargers",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "13:00",
+    "away": "tampa bay buccaneers",
+    "home": "buffalo bills"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "16:05",
+    "away": "seattle seahawks",
+    "home": "los angeles rams"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "16:05",
+    "away": "san francisco 49ers",
+    "home": "arizona cardinals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "16:25",
+    "away": "kansas city chiefs",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "16:25",
+    "away": "baltimore ravens",
+    "home": "cleveland browns"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-16",
+    "time": "20:20",
+    "away": "detroit lions",
+    "home": "philadelphia eagles"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-17",
+    "time": "20:15",
+    "away": "dallas cowboys",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-20",
+    "time": "20:15",
+    "away": "buffalo bills",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "indianapolis colts",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "minnesota vikings",
+    "home": "green bay packers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "new england patriots",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "new york giants",
+    "home": "detroit lions"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "new york jets",
+    "home": "baltimore ravens"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "pittsburgh steelers",
+    "home": "chicago bears"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "13:00",
+    "away": "seattle seahawks",
+    "home": "tennessee titans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "16:05",
+    "away": "cleveland browns",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "16:05",
+    "away": "jacksonville jaguars",
+    "home": "arizona cardinals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "16:25",
+    "away": "atlanta falcons",
+    "home": "new orleans saints"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "16:25",
+    "away": "philadelphia eagles",
+    "home": "dallas cowboys"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-23",
+    "time": "20:20",
+    "away": "tampa bay buccaneers",
+    "home": "los angeles rams"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-24",
+    "time": "20:15",
+    "away": "carolina panthers",
+    "home": "san francisco 49ers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-27",
+    "time": "13:00",
+    "away": "green bay packers",
+    "home": "detroit lions"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-27",
+    "time": "16:30",
+    "away": "kansas city chiefs",
+    "home": "dallas cowboys"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-27",
+    "time": "20:20",
+    "away": "cincinnati bengals",
+    "home": "baltimore ravens"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-28",
+    "time": "15:00",
+    "away": "chicago bears",
+    "home": "philadelphia eagles"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "13:00",
+    "away": "atlanta falcons",
+    "home": "new york jets"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "13:00",
+    "away": "arizona cardinals",
+    "home": "tampa bay buccaneers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "13:00",
+    "away": "houston texans",
+    "home": "indianapolis colts"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "13:00",
+    "away": "jacksonville jaguars",
+    "home": "tennessee titans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "13:00",
+    "away": "new orleans saints",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "13:00",
+    "away": "los angeles rams",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "13:00",
+    "away": "san francisco 49ers",
+    "home": "cleveland browns"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "16:05",
+    "away": "minnesota vikings",
+    "home": "seattle seahawks"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "16:25",
+    "away": "buffalo bills",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "16:25",
+    "away": "las vegas raiders",
+    "home": "los angeles chargers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-11-30",
+    "time": "20:20",
+    "away": "denver broncos",
+    "home": "washington commanders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-01",
+    "time": "20:15",
+    "away": "new york giants",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-04",
+    "time": "20:15",
+    "away": "dallas cowboys",
+    "home": "detroit lions"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "chicago bears",
+    "home": "green bay packers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "indianapolis colts",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "miami dolphins",
+    "home": "new york jets"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "new orleans saints",
+    "home": "tampa bay buccaneers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "tennessee titans",
+    "home": "cleveland browns"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "pittsburgh steelers",
+    "home": "baltimore ravens"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "seattle seahawks",
+    "home": "atlanta falcons"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "13:00",
+    "away": "washington commanders",
+    "home": "minnesota vikings"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "16:05",
+    "away": "denver broncos",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "16:25",
+    "away": "cincinnati bengals",
+    "home": "buffalo bills"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "16:25",
+    "away": "los angeles rams",
+    "home": "arizona cardinals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-07",
+    "time": "20:20",
+    "away": "houston texans",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-08",
+    "time": "20:15",
+    "away": "philadelphia eagles",
+    "home": "los angeles chargers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-11",
+    "time": "20:15",
+    "away": "atlanta falcons",
+    "home": "tampa bay buccaneers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "buffalo bills",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "cleveland browns",
+    "home": "chicago bears"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "arizona cardinals",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "new york jets",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "las vegas raiders",
+    "home": "philadelphia eagles"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "baltimore ravens",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "los angeles chargers",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "13:00",
+    "away": "washington commanders",
+    "home": "new york giants"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "16:25",
+    "away": "carolina panthers",
+    "home": "new orleans saints"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "16:25",
+    "away": "indianapolis colts",
+    "home": "seattle seahawks"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "16:25",
+    "away": "detroit lions",
+    "home": "los angeles rams"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "16:25",
+    "away": "green bay packers",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "16:25",
+    "away": "tennessee titans",
+    "home": "san francisco 49ers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-14",
+    "time": "20:20",
+    "away": "minnesota vikings",
+    "home": "dallas cowboys"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-15",
+    "time": "20:15",
+    "away": "miami dolphins",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-18",
+    "time": "20:15",
+    "away": "los angeles rams",
+    "home": "seattle seahawks"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-20",
+    "time": "13:00",
+    "away": "green bay packers",
+    "home": "chicago bears"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-20",
+    "time": "13:00",
+    "away": "philadelphia eagles",
+    "home": "washington commanders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "13:00",
+    "away": "buffalo bills",
+    "home": "cleveland browns"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "13:00",
+    "away": "kansas city chiefs",
+    "home": "tennessee titans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "13:00",
+    "away": "minnesota vikings",
+    "home": "new york giants"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "13:00",
+    "away": "new england patriots",
+    "home": "baltimore ravens"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "13:00",
+    "away": "new york jets",
+    "home": "new orleans saints"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "13:00",
+    "away": "los angeles chargers",
+    "home": "dallas cowboys"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "13:00",
+    "away": "tampa bay buccaneers",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "16:05",
+    "away": "atlanta falcons",
+    "home": "arizona cardinals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "16:05",
+    "away": "jacksonville jaguars",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "16:25",
+    "away": "pittsburgh steelers",
+    "home": "detroit lions"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "16:25",
+    "away": "las vegas raiders",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-21",
+    "time": "20:20",
+    "away": "cincinnati bengals",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-22",
+    "time": "20:15",
+    "away": "san francisco 49ers",
+    "home": "indianapolis colts"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-25",
+    "time": "13:00",
+    "away": "dallas cowboys",
+    "home": "washington commanders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-25",
+    "time": "16:30",
+    "away": "detroit lions",
+    "home": "minnesota vikings"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-25",
+    "time": "20:15",
+    "away": "denver broncos",
+    "home": "kansas city chiefs"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "arizona cardinals",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "houston texans",
+    "home": "los angeles chargers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "jacksonville jaguars",
+    "home": "indianapolis colts"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "new orleans saints",
+    "home": "tennessee titans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "new england patriots",
+    "home": "new york jets"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "new york giants",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "pittsburgh steelers",
+    "home": "cleveland browns"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "baltimore ravens",
+    "home": "green bay packers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "seattle seahawks",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "13:00",
+    "away": "tampa bay buccaneers",
+    "home": "miami dolphins"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "16:25",
+    "away": "philadelphia eagles",
+    "home": "buffalo bills"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-28",
+    "time": "20:20",
+    "away": "chicago bears",
+    "home": "san francisco 49ers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2025-12-29",
+    "time": "20:15",
+    "away": "los angeles rams",
+    "home": "atlanta falcons"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "carolina panthers",
+    "home": "tampa bay buccaneers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "cleveland browns",
+    "home": "cincinnati bengals"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "indianapolis colts",
+    "home": "houston texans"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "arizona cardinals",
+    "home": "los angeles rams"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "dallas cowboys",
+    "home": "new york giants"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "detroit lions",
+    "home": "chicago bears"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "green bay packers",
+    "home": "minnesota vikings"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "kansas city chiefs",
+    "home": "las vegas raiders"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "miami dolphins",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "new orleans saints",
+    "home": "atlanta falcons"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "new york jets",
+    "home": "buffalo bills"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "tennessee titans",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "baltimore ravens",
+    "home": "pittsburgh steelers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "los angeles chargers",
+    "home": "denver broncos"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "seattle seahawks",
+    "home": "san francisco 49ers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-04",
+    "time": "13:00",
+    "away": "washington commanders",
+    "home": "philadelphia eagles"
+  }
+]
