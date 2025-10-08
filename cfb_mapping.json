@@ -1,1 +1,545 @@
-
+	
+0	
+pto	"Air Force"
+json	"air force"
+bm	""
+1	
+pto	"Akron"
+json	"akron"
+bm	"Akron"
+2	
+pto	"Alabama"
+json	"alabama"
+bm	"Alabama"
+3	
+pto	"App State"
+json	"appalachian state"
+bm	"Appalachian State"
+4	
+pto	"Arizona"
+json	"arizona"
+bm	"Arizona"
+5	
+pto	"Arizona State"
+json	"arizona state"
+bm	"Arizona State"
+6	
+pto	"Arkansas"
+json	"arkansas"
+bm	"Arkansas"
+7	
+pto	"Arkansas State"
+json	"arkansas state"
+bm	""
+8	
+pto	"Army"
+json	"army"
+bm	"Army"
+9	
+pto	"Auburn"
+json	"auburn"
+bm	"Auburn"
+10	
+pto	"Ball State"
+json	"ball state"
+bm	"Ball State"
+11	
+pto	"Baylor"
+json	"baylor"
+bm	""
+12	
+pto	"Boise State"
+json	"boise state"
+bm	"Boise State"
+13	
+pto	"Boston College"
+json	"boston college"
+bm	"Boston College"
+14	
+pto	"Bowling Green"
+json	"bowling green"
+bm	"Bowling Green"
+15	
+pto	"Buffalo"
+json	"buffalo"
+bm	""
+16	
+pto	"BYU"
+json	"brigham young"
+bm	"BYU"
+17	
+pto	"California"
+json	"california"
+bm	""
+18	
+pto	"Central Michigan"
+json	"central michigan"
+bm	""
+19	
+pto	"Charlotte"
+json	"charlotte"
+bm	"Charlotte"
+20	
+pto	"Cincinnati"
+json	"cincinnati"
+bm	"Cincinnati"
+21	
+pto	"Clemson"
+json	"clemson"
+bm	"Clemson"
+22	
+pto	"Coastal Carolina"
+json	"coastal carolina"
+bm	"Coastal Carolina"
+23	
+pto	"Colorado"
+json	"colorado"
+bm	"Colorado"
+24	
+pto	"Colorado State"
+json	"colorado state"
+bm	"Colorado State"
+25	
+pto	"Delaware"
+json	"delaware"
+bm	""
+26	
+pto	"Duke"
+json	"duke"
+bm	""
+27	
+pto	"East Carolina"
+json	"east carolina"
+bm	"East Carolina"
+28	
+pto	"Eastern Michigan"
+json	"eastern michigan"
+bm	"Eastern Michigan"
+29	
+pto	"Florida"
+json	"florida"
+bm	"Florida"
+30	
+pto	"Florida Atlantic"
+json	"florida atlantic"
+bm	"Florida Atlantic"
+31	
+pto	"Florida International"
+json	"florida international"
+bm	""
+32	
+pto	"Florida State"
+json	"florida state"
+bm	"Florida State"
+33	
+pto	"Fresno State"
+json	"fresno state"
+bm	"Fresno State"
+34	
+pto	"Georgia"
+json	"georgia"
+bm	""
+35	
+pto	"Georgia Southern"
+json	"georgia southern"
+bm	"Georgia Southern"
+36	
+pto	"Georgia State"
+json	"georgia state"
+bm	"Georgia State"
+37	
+pto	"Georgia Tech"
+json	"georgia tech"
+bm	"Georgia Tech"
+38	
+pto	"Hawaii"
+json	"hawaii"
+bm	"Hawaii"
+39	
+pto	"Houston"
+json	"houston"
+bm	"Houston"
+40	
+pto	"Illinois"
+json	"illinois"
+bm	"Illinois"
+41	
+pto	"Indiana"
+json	"indiana"
+bm	"Indiana"
+42	
+pto	"Iowa"
+json	"iowa"
+bm	"Iowa"
+43	
+pto	"Iowa State"
+json	"iowa state"
+bm	"Iowa State"
+44	
+pto	"Jacksonville State"
+json	"jacksonville state"
+bm	"Jacksonville State"
+45	
+pto	"James Madison"
+json	"james madison"
+bm	"James Madison"
+46	
+pto	"Kansas"
+json	"kansas"
+bm	"Kansas"
+47	
+pto	"Kansas State"
+json	"kansas state"
+bm	"Kansas State"
+48	
+pto	"Kennesaw State"
+json	"kennesaw state"
+bm	"Kennesaw State"
+49	
+pto	"Kent State"
+json	"kent state"
+bm	"Kent State"
+50	
+pto	"Kentucky"
+json	"kentucky"
+bm	"Kentucky"
+51	
+pto	"Liberty"
+json	"liberty"
+bm	"Liberty"
+52	
+pto	"Louisiana"
+json	"louisiana"
+bm	"UL Lafayette"
+53	
+pto	"UL Monroe"
+json	"louisiana-monroe"
+bm	"UL Monroe"
+54	
+pto	"Louisiana Tech"
+json	"louisiana tech"
+bm	"Louisiana Tech"
+55	
+pto	"Louisville"
+json	"louisville"
+bm	""
+56	
+pto	"LSU"
+json	"louisiana state"
+bm	"LSU"
+57	
+pto	"Marshall"
+json	"marshall"
+bm	"Marshall"
+58	
+pto	"Maryland"
+json	"maryland"
+bm	"Maryland"
+59	
+pto	"Massachusetts"
+json	"massachusetts"
+bm	"Massachusetts"
+60	
+pto	"Memphis"
+json	"memphis"
+bm	"Memphis"
+61	
+pto	"Miami"
+json	"miami (fl)"
+bm	"Miami"
+62	
+pto	"Miami (OH)"
+json	"miami (oh)"
+bm	"Miami Ohio"
+63	
+pto	"Michigan"
+json	"michigan"
+bm	"Michigan"
+64	
+pto	"Michigan State"
+json	"michigan state"
+bm	"Michigan State"
+65	
+pto	"Middle Tennessee"
+json	"middle tennessee state"
+bm	"Middle Tennessee State"
+66	
+pto	"Minnesota"
+json	"minnesota"
+bm	"Minnesota"
+67	
+pto	"Mississippi State"
+json	"mississippi state"
+bm	""
+68	
+pto	"Missouri"
+json	"missouri"
+bm	"Missouri"
+69	
+pto	"Missouri State"
+json	"missouri state"
+bm	"Missouri St"
+70	
+pto	"Navy"
+json	"navy"
+bm	"Navy"
+71	
+pto	"NC State"
+json	"north carolina state"
+bm	"NC State"
+72	
+pto	"Nebraska"
+json	"nebraska"
+bm	"Nebraska"
+73	
+pto	"Nevada"
+json	"nevada"
+bm	"Nevada"
+74	
+pto	"New Mexico"
+json	"new mexico"
+bm	"New Mexico"
+75	
+pto	"New Mexico State"
+json	"new mexico state"
+bm	""
+76	
+pto	"North Carolina"
+json	"north carolina"
+bm	"North Carolina"
+77	
+pto	"North Texas"
+json	"north texas"
+bm	"North Texas"
+78	
+pto	"Northern Illinois"
+json	"northern illinois"
+bm	"Northern Illinois"
+79	
+pto	"Northwestern"
+json	"northwestern"
+bm	"Northwestern"
+80	
+pto	"Notre Dame"
+json	"notre dame"
+bm	"Notre Dame"
+81	
+pto	"Ohio"
+json	"ohio"
+bm	""
+82	
+pto	"Ohio State"
+json	"ohio state"
+bm	"Ohio State"
+83	
+pto	"Oklahoma"
+json	"oklahoma"
+bm	"Oklahoma"
+84	
+pto	"Oklahoma State"
+json	"oklahoma state"
+bm	"Oklahoma State"
+85	
+pto	"Old Dominion"
+json	"old dominion"
+bm	"Old Dominion"
+86	
+pto	"Ole Miss"
+json	"mississippi"
+bm	"Mississippi"
+87	
+pto	"Oregon"
+json	"oregon"
+bm	"Oregon"
+88	
+pto	"Oregon State"
+json	"oregon state"
+bm	"Oregon State"
+89	
+pto	"Penn State"
+json	"penn state"
+bm	"Penn State"
+90	
+pto	"Pittsburgh"
+json	"pittsburgh"
+bm	"Pittsburgh"
+91	
+pto	"Purdue"
+json	"purdue"
+bm	"Purdue"
+92	
+pto	"Rice"
+json	"rice"
+bm	"Rice"
+93	
+pto	"Rutgers"
+json	"rutgers"
+bm	"Rutgers"
+94	
+pto	"Sam Houston"
+json	"sam houston"
+bm	"Sam Houston St"
+95	
+pto	"San Diego State"
+json	"san diego state"
+bm	"San Diego State"
+96	
+pto	"San Jose State"
+json	"san jose state"
+bm	"San Jose State"
+97	
+pto	"SMU"
+json	"southern methodist"
+bm	"SMU"
+98	
+pto	"South Alabama"
+json	"south alabama"
+bm	""
+99	
+pto	"South Carolina"
+json	"south carolina"
+bm	"South Carolina"
+100	
+pto	"South Florida"
+json	"south florida"
+bm	"South Florida"
+101	
+pto	"Southern Miss"
+json	"southern mississippi"
+bm	"Southern Miss"
+102	
+pto	"Stanford"
+json	"stanford"
+bm	"Stanford"
+103	
+pto	"Syracuse"
+json	"syracuse"
+bm	""
+104	
+pto	"TCU"
+json	"texas christian"
+bm	"TCU"
+105	
+pto	"Temple"
+json	"temple"
+bm	"Temple"
+106	
+pto	"Tennessee"
+json	"tennessee"
+bm	"Tennessee"
+107	
+pto	"Texas"
+json	"texas"
+bm	"Texas"
+108	
+pto	"Texas A&M"
+json	"texas a&m"
+bm	"Texas A&M"
+109	
+pto	"Texas State"
+json	"texas state"
+bm	"Texas State"
+110	
+pto	"Texas Tech"
+json	"texas tech"
+bm	"Texas Tech"
+111	
+pto	"Toledo"
+json	"toledo"
+bm	"Toledo"
+112	
+pto	"Troy"
+json	"troy"
+bm	"Troy"
+113	
+pto	"Tulane"
+json	"tulane"
+bm	"Tulane"
+114	
+pto	"Tulsa"
+json	"tulsa"
+bm	""
+115	
+pto	"UAB"
+json	"alabama-birmingham"
+bm	"UAB"
+116	
+pto	"UCF"
+json	"central florida"
+bm	"Central Florida"
+117	
+pto	"UCLA"
+json	"ucla"
+bm	"UCLA"
+118	
+pto	"UConn"
+json	"connecticut"
+bm	""
+119	
+pto	"UNLV"
+json	"nevada-las vegas"
+bm	"UNLV"
+120	
+pto	"USC"
+json	"southern california"
+bm	"USC"
+121	
+pto	"Utah"
+json	"utah"
+bm	"Utah"
+122	
+pto	"Utah State"
+json	"utah state"
+bm	"Utah State"
+123	
+pto	"UTEP"
+json	"texas-el paso"
+bm	"UTEP"
+124	
+pto	"UTSA"
+json	"texas-san antonio"
+bm	"UTSA"
+125	
+pto	"Vanderbilt"
+json	"vanderbilt"
+bm	"Vanderbilt"
+126	
+pto	"Virginia"
+json	"virginia"
+bm	"Virginia"
+127	
+pto	"Virginia Tech"
+json	"virginia tech"
+bm	"Virginia Tech"
+128	
+pto	"Wake Forest"
+json	"wake forest"
+bm	"Wake Forest"
+129	
+pto	"Washington"
+json	"washington"
+bm	"Washington"
+130	
+pto	"Washington State"
+json	"washington state"
+bm	"Washington State"
+131	
+pto	"West Virginia"
+json	"west virginia"
+bm	""
+132	
+pto	"Western Kentucky"
+json	"western kentucky"
+bm	""
+133	
+pto	"Western Michigan"
+json	"western michigan"
+bm	"Western Michigan"
+134	
+pto	"Wisconsin"
+json	"wisconsin"
+bm	"Wisconsin"
+135	
+pto	"Wyoming"
+json	"wyoming"
+bm	"Wyoming"
