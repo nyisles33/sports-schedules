@@ -1,0 +1,682 @@
+[
+  {
+    "pto": "Air Force",
+    "json": "air force",
+    "bm": ""
+  },
+  {
+    "pto": "Akron",
+    "json": "akron",
+    "bm": "Akron"
+  },
+  {
+    "pto": "Alabama",
+    "json": "alabama",
+    "bm": "Alabama"
+  },
+  {
+    "pto": "App State",
+    "json": "appalachian state",
+    "bm": "Appalachian State"
+  },
+  {
+    "pto": "Arizona",
+    "json": "arizona",
+    "bm": "Arizona"
+  },
+  {
+    "pto": "Arizona State",
+    "json": "arizona state",
+    "bm": "Arizona State"
+  },
+  {
+    "pto": "Arkansas",
+    "json": "arkansas",
+    "bm": "Arkansas"
+  },
+  {
+    "pto": "Arkansas State",
+    "json": "arkansas state",
+    "bm": ""
+  },
+  {
+    "pto": "Army",
+    "json": "army",
+    "bm": "Army"
+  },
+  {
+    "pto": "Auburn",
+    "json": "auburn",
+    "bm": "Auburn"
+  },
+  {
+    "pto": "Ball State",
+    "json": "ball state",
+    "bm": "Ball State"
+  },
+  {
+    "pto": "Baylor",
+    "json": "baylor",
+    "bm": ""
+  },
+  {
+    "pto": "Boise State",
+    "json": "boise state",
+    "bm": "Boise State"
+  },
+  {
+    "pto": "Boston College",
+    "json": "boston college",
+    "bm": "Boston College"
+  },
+  {
+    "pto": "Bowling Green",
+    "json": "bowling green",
+    "bm": "Bowling Green"
+  },
+  {
+    "pto": "Buffalo",
+    "json": "buffalo",
+    "bm": ""
+  },
+  {
+    "pto": "BYU",
+    "json": "brigham young",
+    "bm": "BYU"
+  },
+  {
+    "pto": "California",
+    "json": "california",
+    "bm": ""
+  },
+  {
+    "pto": "Central Michigan",
+    "json": "central michigan",
+    "bm": ""
+  },
+  {
+    "pto": "Charlotte",
+    "json": "charlotte",
+    "bm": "Charlotte"
+  },
+  {
+    "pto": "Cincinnati",
+    "json": "cincinnati",
+    "bm": "Cincinnati"
+  },
+  {
+    "pto": "Clemson",
+    "json": "clemson",
+    "bm": "Clemson"
+  },
+  {
+    "pto": "Coastal Carolina",
+    "json": "coastal carolina",
+    "bm": "Coastal Carolina"
+  },
+  {
+    "pto": "Colorado",
+    "json": "colorado",
+    "bm": "Colorado"
+  },
+  {
+    "pto": "Colorado State",
+    "json": "colorado state",
+    "bm": "Colorado State"
+  },
+  {
+    "pto": "Delaware",
+    "json": "delaware",
+    "bm": ""
+  },
+  {
+    "pto": "Duke",
+    "json": "duke",
+    "bm": ""
+  },
+  {
+    "pto": "East Carolina",
+    "json": "east carolina",
+    "bm": "East Carolina"
+  },
+  {
+    "pto": "Eastern Michigan",
+    "json": "eastern michigan",
+    "bm": "Eastern Michigan"
+  },
+  {
+    "pto": "Florida",
+    "json": "florida",
+    "bm": "Florida"
+  },
+  {
+    "pto": "Florida Atlantic",
+    "json": "florida atlantic",
+    "bm": "Florida Atlantic"
+  },
+  {
+    "pto": "Florida International",
+    "json": "florida international",
+    "bm": ""
+  },
+  {
+    "pto": "Florida State",
+    "json": "florida state",
+    "bm": "Florida State"
+  },
+  {
+    "pto": "Fresno State",
+    "json": "fresno state",
+    "bm": "Fresno State"
+  },
+  {
+    "pto": "Georgia",
+    "json": "georgia",
+    "bm": ""
+  },
+  {
+    "pto": "Georgia Southern",
+    "json": "georgia southern",
+    "bm": "Georgia Southern"
+  },
+  {
+    "pto": "Georgia State",
+    "json": "georgia state",
+    "bm": "Georgia State"
+  },
+  {
+    "pto": "Georgia Tech",
+    "json": "georgia tech",
+    "bm": "Georgia Tech"
+  },
+  {
+    "pto": "Hawaii",
+    "json": "hawaii",
+    "bm": "Hawaii"
+  },
+  {
+    "pto": "Houston",
+    "json": "houston",
+    "bm": "Houston"
+  },
+  {
+    "pto": "Illinois",
+    "json": "illinois",
+    "bm": "Illinois"
+  },
+  {
+    "pto": "Indiana",
+    "json": "indiana",
+    "bm": "Indiana"
+  },
+  {
+    "pto": "Iowa",
+    "json": "iowa",
+    "bm": "Iowa"
+  },
+  {
+    "pto": "Iowa State",
+    "json": "iowa state",
+    "bm": "Iowa State"
+  },
+  {
+    "pto": "Jacksonville State",
+    "json": "jacksonville state",
+    "bm": "Jacksonville State"
+  },
+  {
+    "pto": "James Madison",
+    "json": "james madison",
+    "bm": "James Madison"
+  },
+  {
+    "pto": "Kansas",
+    "json": "kansas",
+    "bm": "Kansas"
+  },
+  {
+    "pto": "Kansas State",
+    "json": "kansas state",
+    "bm": "Kansas State"
+  },
+  {
+    "pto": "Kennesaw State",
+    "json": "kennesaw state",
+    "bm": "Kennesaw State"
+  },
+  {
+    "pto": "Kent State",
+    "json": "kent state",
+    "bm": "Kent State"
+  },
+  {
+    "pto": "Kentucky",
+    "json": "kentucky",
+    "bm": "Kentucky"
+  },
+  {
+    "pto": "Liberty",
+    "json": "liberty",
+    "bm": "Liberty"
+  },
+  {
+    "pto": "Louisiana",
+    "json": "louisiana",
+    "bm": "UL Lafayette"
+  },
+  {
+    "pto": "UL Monroe",
+    "json": "louisiana-monroe",
+    "bm": "UL Monroe"
+  },
+  {
+    "pto": "Louisiana Tech",
+    "json": "louisiana tech",
+    "bm": "Louisiana Tech"
+  },
+  {
+    "pto": "Louisville",
+    "json": "louisville",
+    "bm": ""
+  },
+  {
+    "pto": "LSU",
+    "json": "louisiana state",
+    "bm": "LSU"
+  },
+  {
+    "pto": "Marshall",
+    "json": "marshall",
+    "bm": "Marshall"
+  },
+  {
+    "pto": "Maryland",
+    "json": "maryland",
+    "bm": "Maryland"
+  },
+  {
+    "pto": "Massachusetts",
+    "json": "massachusetts",
+    "bm": "Massachusetts"
+  },
+  {
+    "pto": "Memphis",
+    "json": "memphis",
+    "bm": "Memphis"
+  },
+  {
+    "pto": "Miami",
+    "json": "miami (fl)",
+    "bm": "Miami"
+  },
+  {
+    "pto": "Miami (OH)",
+    "json": "miami (oh)",
+    "bm": "Miami Ohio"
+  },
+  {
+    "pto": "Michigan",
+    "json": "michigan",
+    "bm": "Michigan"
+  },
+  {
+    "pto": "Michigan State",
+    "json": "michigan state",
+    "bm": "Michigan State"
+  },
+  {
+    "pto": "Middle Tennessee",
+    "json": "middle tennessee state",
+    "bm": "Middle Tennessee State"
+  },
+  {
+    "pto": "Minnesota",
+    "json": "minnesota",
+    "bm": "Minnesota"
+  },
+  {
+    "pto": "Mississippi State",
+    "json": "mississippi state",
+    "bm": ""
+  },
+  {
+    "pto": "Missouri",
+    "json": "missouri",
+    "bm": "Missouri"
+  },
+  {
+    "pto": "Missouri State",
+    "json": "missouri state",
+    "bm": "Missouri St"
+  },
+  {
+    "pto": "Navy",
+    "json": "navy",
+    "bm": "Navy"
+  },
+  {
+    "pto": "NC State",
+    "json": "north carolina state",
+    "bm": "NC State"
+  },
+  {
+    "pto": "Nebraska",
+    "json": "nebraska",
+    "bm": "Nebraska"
+  },
+  {
+    "pto": "Nevada",
+    "json": "nevada",
+    "bm": "Nevada"
+  },
+  {
+    "pto": "New Mexico",
+    "json": "new mexico",
+    "bm": "New Mexico"
+  },
+  {
+    "pto": "New Mexico State",
+    "json": "new mexico state",
+    "bm": ""
+  },
+  {
+    "pto": "North Carolina",
+    "json": "north carolina",
+    "bm": "North Carolina"
+  },
+  {
+    "pto": "North Texas",
+    "json": "north texas",
+    "bm": "North Texas"
+  },
+  {
+    "pto": "Northern Illinois",
+    "json": "northern illinois",
+    "bm": "Northern Illinois"
+  },
+  {
+    "pto": "Northwestern",
+    "json": "northwestern",
+    "bm": "Northwestern"
+  },
+  {
+    "pto": "Notre Dame",
+    "json": "notre dame",
+    "bm": "Notre Dame"
+  },
+  {
+    "pto": "Ohio",
+    "json": "ohio",
+    "bm": ""
+  },
+  {
+    "pto": "Ohio State",
+    "json": "ohio state",
+    "bm": "Ohio State"
+  },
+  {
+    "pto": "Oklahoma",
+    "json": "oklahoma",
+    "bm": "Oklahoma"
+  },
+  {
+    "pto": "Oklahoma State",
+    "json": "oklahoma state",
+    "bm": "Oklahoma State"
+  },
+  {
+    "pto": "Old Dominion",
+    "json": "old dominion",
+    "bm": "Old Dominion"
+  },
+  {
+    "pto": "Ole Miss",
+    "json": "mississippi",
+    "bm": "Mississippi"
+  },
+  {
+    "pto": "Oregon",
+    "json": "oregon",
+    "bm": "Oregon"
+  },
+  {
+    "pto": "Oregon State",
+    "json": "oregon state",
+    "bm": "Oregon State"
+  },
+  {
+    "pto": "Penn State",
+    "json": "penn state",
+    "bm": "Penn State"
+  },
+  {
+    "pto": "Pittsburgh",
+    "json": "pittsburgh",
+    "bm": "Pittsburgh"
+  },
+  {
+    "pto": "Purdue",
+    "json": "purdue",
+    "bm": "Purdue"
+  },
+  {
+    "pto": "Rice",
+    "json": "rice",
+    "bm": "Rice"
+  },
+  {
+    "pto": "Rutgers",
+    "json": "rutgers",
+    "bm": "Rutgers"
+  },
+  {
+    "pto": "Sam Houston",
+    "json": "sam houston",
+    "bm": "Sam Houston St"
+  },
+  {
+    "pto": "San Diego State",
+    "json": "san diego state",
+    "bm": "San Diego State"
+  },
+  {
+    "pto": "San Jose State",
+    "json": "san jose state",
+    "bm": "San Jose State"
+  },
+  {
+    "pto": "SMU",
+    "json": "southern methodist",
+    "bm": "SMU"
+  },
+  {
+    "pto": "South Alabama",
+    "json": "south alabama",
+    "bm": ""
+  },
+  {
+    "pto": "South Carolina",
+    "json": "south carolina",
+    "bm": "South Carolina"
+  },
+  {
+    "pto": "South Florida",
+    "json": "south florida",
+    "bm": "South Florida"
+  },
+  {
+    "pto": "Southern Miss",
+    "json": "southern mississippi",
+    "bm": "Southern Miss"
+  },
+  {
+    "pto": "Stanford",
+    "json": "stanford",
+    "bm": "Stanford"
+  },
+  {
+    "pto": "Syracuse",
+    "json": "syracuse",
+    "bm": ""
+  },
+  {
+    "pto": "TCU",
+    "json": "texas christian",
+    "bm": "TCU"
+  },
+  {
+    "pto": "Temple",
+    "json": "temple",
+    "bm": "Temple"
+  },
+  {
+    "pto": "Tennessee",
+    "json": "tennessee",
+    "bm": "Tennessee"
+  },
+  {
+    "pto": "Texas",
+    "json": "texas",
+    "bm": "Texas"
+  },
+  {
+    "pto": "Texas A&M",
+    "json": "texas a&m",
+    "bm": "Texas A&M"
+  },
+  {
+    "pto": "Texas State",
+    "json": "texas state",
+    "bm": "Texas State"
+  },
+  {
+    "pto": "Texas Tech",
+    "json": "texas tech",
+    "bm": "Texas Tech"
+  },
+  {
+    "pto": "Toledo",
+    "json": "toledo",
+    "bm": "Toledo"
+  },
+  {
+    "pto": "Troy",
+    "json": "troy",
+    "bm": "Troy"
+  },
+  {
+    "pto": "Tulane",
+    "json": "tulane",
+    "bm": "Tulane"
+  },
+  {
+    "pto": "Tulsa",
+    "json": "tulsa",
+    "bm": ""
+  },
+  {
+    "pto": "UAB",
+    "json": "alabama-birmingham",
+    "bm": "UAB"
+  },
+  {
+    "pto": "UCF",
+    "json": "central florida",
+    "bm": "Central Florida"
+  },
+  {
+    "pto": "UCLA",
+    "json": "ucla",
+    "bm": "UCLA"
+  },
+  {
+    "pto": "UConn",
+    "json": "connecticut",
+    "bm": ""
+  },
+  {
+    "pto": "UNLV",
+    "json": "nevada-las vegas",
+    "bm": "UNLV"
+  },
+  {
+    "pto": "USC",
+    "json": "southern california",
+    "bm": "USC"
+  },
+  {
+    "pto": "Utah",
+    "json": "utah",
+    "bm": "Utah"
+  },
+  {
+    "pto": "Utah State",
+    "json": "utah state",
+    "bm": "Utah State"
+  },
+  {
+    "pto": "UTEP",
+    "json": "texas-el paso",
+    "bm": "UTEP"
+  },
+  {
+    "pto": "UTSA",
+    "json": "texas-san antonio",
+    "bm": "UTSA"
+  },
+  {
+    "pto": "Vanderbilt",
+    "json": "vanderbilt",
+    "bm": "Vanderbilt"
+  },
+  {
+    "pto": "Virginia",
+    "json": "virginia",
+    "bm": "Virginia"
+  },
+  {
+    "pto": "Virginia Tech",
+    "json": "virginia tech",
+    "bm": "Virginia Tech"
+  },
+  {
+    "pto": "Wake Forest",
+    "json": "wake forest",
+    "bm": "Wake Forest"
+  },
+  {
+    "pto": "Washington",
+    "json": "washington",
+    "bm": "Washington"
+  },
+  {
+    "pto": "Washington State",
+    "json": "washington state",
+    "bm": "Washington State"
+  },
+  {
+    "pto": "West Virginia",
+    "json": "west virginia",
+    "bm": ""
+  },
+  {
+    "pto": "Western Kentucky",
+    "json": "western kentucky",
+    "bm": ""
+  },
+  {
+    "pto": "Western Michigan",
+    "json": "western michigan",
+    "bm": "Western Michigan"
+  },
+  {
+    "pto": "Wisconsin",
+    "json": "wisconsin",
+    "bm": "Wisconsin"
+  },
+  {
+    "pto": "Wyoming",
+    "json": "wyoming",
+    "bm": "Wyoming"
+  }
+]
