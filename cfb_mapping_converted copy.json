@@ -2,7 +2,7 @@
   {
     "pto": "Air Force",
     "json": "air force",
-    "bm": ""
+    "bm": "air force"
   },
   {
     "pto": "Akron",
@@ -37,7 +37,7 @@
   {
     "pto": "Arkansas State",
     "json": "arkansas state",
-    "bm": ""
+    "bm": "arkansas state"
   },
   {
     "pto": "Army",
@@ -57,7 +57,7 @@
   {
     "pto": "Baylor",
     "json": "baylor",
-    "bm": ""
+    "bm": "baylor"
   },
   {
     "pto": "Boise State",
@@ -77,7 +77,7 @@
   {
     "pto": "Buffalo",
     "json": "buffalo",
-    "bm": ""
+    "bm": "buffalo"
   },
   {
     "pto": "BYU",
@@ -87,12 +87,12 @@
   {
     "pto": "California",
     "json": "california",
-    "bm": ""
+    "bm": "california"
   },
   {
     "pto": "Central Michigan",
     "json": "central michigan",
-    "bm": ""
+    "bm": "central michigan"
   },
   {
     "pto": "Charlotte",
@@ -127,12 +127,12 @@
   {
     "pto": "Delaware",
     "json": "delaware",
-    "bm": ""
+    "bm": "delaware"
   },
   {
     "pto": "Duke",
     "json": "duke",
-    "bm": ""
+    "bm": "duke"
   },
   {
     "pto": "East Carolina",
@@ -157,7 +157,7 @@
   {
     "pto": "Florida International",
     "json": "florida international",
-    "bm": ""
+    "bm": "flordia international"
   },
   {
     "pto": "Florida State",
@@ -172,7 +172,7 @@
   {
     "pto": "Georgia",
     "json": "georgia",
-    "bm": ""
+    "bm": "georgia"
   },
   {
     "pto": "Georgia Southern",
@@ -277,7 +277,7 @@
   {
     "pto": "Louisville",
     "json": "louisville",
-    "bm": ""
+    "bm": "louisville"
   },
   {
     "pto": "LSU",
@@ -377,7 +377,7 @@
   {
     "pto": "New Mexico State",
     "json": "new mexico state",
-    "bm": ""
+    "bm": "new mexico state"
   },
   {
     "pto": "North Carolina",
@@ -407,7 +407,7 @@
   {
     "pto": "Ohio",
     "json": "ohio",
-    "bm": ""
+    "bm": "ohio"
   },
   {
     "pto": "Ohio State",
@@ -492,7 +492,7 @@
   {
     "pto": "South Alabama",
     "json": "south alabama",
-    "bm": ""
+    "bm": "south alabama"
   },
   {
     "pto": "South Carolina",
@@ -517,7 +517,7 @@
   {
     "pto": "Syracuse",
     "json": "syracuse",
-    "bm": ""
+    "bm": "syracuse"
   },
   {
     "pto": "TCU",
@@ -572,7 +572,7 @@
   {
     "pto": "Tulsa",
     "json": "tulsa",
-    "bm": ""
+    "bm": "tulsa"
   },
   {
     "pto": "UAB",
@@ -592,7 +592,7 @@
   {
     "pto": "UConn",
     "json": "connecticut",
-    "bm": ""
+    "bm": "connecticut"
   },
   {
     "pto": "UNLV",
@@ -662,7 +662,7 @@
   {
     "pto": "Western Kentucky",
     "json": "western kentucky",
-    "bm": ""
+    "bm": "western kentucky"
   },
   {
     "pto": "Western Michigan",
