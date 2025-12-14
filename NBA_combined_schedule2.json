@@ -1,0 +1,107 @@
+[
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "15:00",
+    "away": "washington wizards",
+    "home": "indiana pacers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "15:30",
+    "away": "charlotte hornets",
+    "home": "cleveland cavaliers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "18:00",
+    "away": "philadelphia 76ers",
+    "home": "atlanta hawks"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "18:00",
+    "away": "milwaukee bucks",
+    "home": "brooklyn nets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "19:00",
+    "away": "new orleans pelicans",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "19:00",
+    "away": "sacramento kings",
+    "home": "minnesota timberwolves"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "20:00",
+    "away": "los angeles lakers",
+    "home": "phoenix suns"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-14",
+    "time": "21:00",
+    "away": "golden state warriors",
+    "home": "portland trail blazers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-15",
+    "time": "19:00",
+    "away": "detroit pistons",
+    "home": "boston celtics"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-15",
+    "time": "19:30",
+    "away": "toronto raptors",
+    "home": "miami heat"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-15",
+    "time": "21:00",
+    "away": "dallas mavericks",
+    "home": "utah jazz"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-15",
+    "time": "21:30",
+    "away": "houston rockets",
+    "home": "denver nuggets"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-15",
+    "time": "22:30",
+    "away": "memphis grizzlies",
+    "home": "los angeles clippers"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-17",
+    "time": "20:00",
+    "away": "cleveland cavaliers",
+    "home": "chicago bulls"
+  },
+  {
+    "sport": "nba",
+    "date": "2025-12-17",
+    "time": "20:00",
+    "away": "memphis grizzlies",
+    "home": "minnesota timberwolves"
+  }
+]
