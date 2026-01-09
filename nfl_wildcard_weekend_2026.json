@@ -1,0 +1,44 @@
+[
+  {
+    "sport": "nfl",
+    "date": "2026-01-10",
+    "time": "16:30",
+    "away": "los angeles rams",
+    "home": "carolina panthers"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-10",
+    "time": "20:00",
+    "away": "green bay packers",
+    "home": "chicago bears"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-11",
+    "time": "13:00",
+    "away": "buffalo bills",
+    "home": "jacksonville jaguars"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-11",
+    "time": "16:30",
+    "away": "san francisco 49ers",
+    "home": "philadelphia eagles"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-11",
+    "time": "20:00",
+    "away": "los angeles chargers",
+    "home": "new england patriots"
+  },
+  {
+    "sport": "nfl",
+    "date": "2026-01-12",
+    "time": "20:15",
+    "away": "houston texans",
+    "home": "pittsburgh steelers"
+  }
+]
