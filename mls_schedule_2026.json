@@ -1,0 +1,3572 @@
+[
+  {
+    "sport": "mls",
+    "date": "2026-02-21",
+    "time": "19:30",
+    "away": "Charlotte FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-21",
+    "time": "21:45",
+    "away": "Atlanta United",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "00:30",
+    "away": "Philadelphia Union",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "00:30",
+    "away": "Red Bull New York",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "01:30",
+    "away": "Chicago Fire FC",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "01:30",
+    "away": "Minnesota United FC",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "01:30",
+    "away": "New England Revolution",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "01:30",
+    "away": "Toronto FC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "02:30",
+    "away": "Inter Miami CF",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "03:30",
+    "away": "CF Montréal",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "03:30",
+    "away": "Columbus Crew",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-22",
+    "time": "03:30",
+    "away": "Sporting Kansas City",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-23",
+    "time": "00:00",
+    "away": "New York City Football Club",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-23",
+    "time": "02:15",
+    "away": "Colorado Rapids",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-28",
+    "time": "19:30",
+    "away": "CF Montréal",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-28",
+    "time": "19:30",
+    "away": "New England Revolution",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-28",
+    "time": "21:30",
+    "away": "FC Cincinnati",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-02-28",
+    "time": "21:30",
+    "away": "Portland Timbers",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "00:30",
+    "away": "Atlanta United",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "00:30",
+    "away": "Seattle Sounders FC",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "01:30",
+    "away": "Columbus Crew",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "01:30",
+    "away": "Los Angeles Football Club",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "01:30",
+    "away": "Nashville SC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "02:30",
+    "away": "Toronto FC",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "03:30",
+    "away": "Charlotte FC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "19:30",
+    "away": "D.C. United",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-01",
+    "time": "21:30",
+    "away": "New York City Football Club",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-02",
+    "time": "00:00",
+    "away": "Inter Miami CF",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-02",
+    "time": "02:15",
+    "away": "St. Louis CITY SC",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-07",
+    "time": "19:30",
+    "away": "Houston Dynamo FC",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-07",
+    "time": "19:30",
+    "away": "Orlando City",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-07",
+    "time": "21:30",
+    "away": "Inter Miami CF",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "00:30",
+    "away": "Austin FC",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "00:30",
+    "away": "Chicago Fire FC",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "00:30",
+    "away": "San Jose Earthquakes",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "01:30",
+    "away": "Minnesota United FC",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "01:30",
+    "away": "San Diego FC",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "01:30",
+    "away": "Seattle Sounders FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "02:30",
+    "away": "LA Galaxy",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "03:30",
+    "away": "FC Dallas",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "03:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "20:30",
+    "away": "CF Montréal",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-08",
+    "time": "23:00",
+    "away": "Toronto FC",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-14",
+    "time": "17:00",
+    "away": "Red Bull New York",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-14",
+    "time": "19:00",
+    "away": "Philadelphia Union",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-14",
+    "time": "22:00",
+    "away": "Nashville SC",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-14",
+    "time": "23:30",
+    "away": "CF Montréal",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-14",
+    "time": "23:30",
+    "away": "Colorado Rapids",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-14",
+    "time": "23:30",
+    "away": "Inter Miami CF",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "00:30",
+    "away": "D.C. United",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "00:30",
+    "away": "Portland Timbers",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "00:30",
+    "away": "San Diego FC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "01:30",
+    "away": "Austin FC",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "01:30",
+    "away": "Sporting Kansas City",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "02:30",
+    "away": "Minnesota United FC",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "02:30",
+    "away": "St. Louis CITY SC",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "18:30",
+    "away": "FC Cincinnati",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-15",
+    "time": "23:00",
+    "away": "Seattle Sounders FC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-21",
+    "time": "17:00",
+    "away": "Columbus Crew",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-21",
+    "time": "20:30",
+    "away": "Chicago Fire FC",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-21",
+    "time": "22:00",
+    "away": "Orlando City",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-21",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-21",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "00:30",
+    "away": "Colorado Rapids",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "00:30",
+    "away": "Houston Dynamo FC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "00:30",
+    "away": "Los Angeles Football Club",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "00:30",
+    "away": "New England Revolution",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "02:30",
+    "away": "San Jose Earthquakes",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "17:00",
+    "away": "CF Montréal",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "17:00",
+    "away": "Inter Miami CF",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "18:30",
+    "away": "Seattle Sounders FC",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "20:30",
+    "away": "LA Galaxy",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-03-22",
+    "time": "23:00",
+    "away": "Real Salt Lake",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "17:00",
+    "away": "Colorado Rapids",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "20:30",
+    "away": "CF Montréal",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "20:30",
+    "away": "Sporting Kansas City",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "23:30",
+    "away": "Austin FC",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "23:30",
+    "away": "FC Dallas",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "23:30",
+    "away": "Philadelphia Union",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-04",
+    "time": "23:30",
+    "away": "St. Louis CITY SC",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-05",
+    "time": "00:30",
+    "away": "Nashville SC",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-05",
+    "time": "00:30",
+    "away": "Seattle Sounders FC",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-05",
+    "time": "01:30",
+    "away": "Orlando City",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-05",
+    "time": "02:30",
+    "away": "Minnesota United FC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-05",
+    "time": "02:30",
+    "away": "Portland Timbers",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-05",
+    "time": "02:30",
+    "away": "San Diego FC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "17:00",
+    "away": "FC Cincinnati",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "18:30",
+    "away": "LA Galaxy",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "18:30",
+    "away": "Philadelphia Union",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "20:30",
+    "away": "Los Angeles Football Club",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-11",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-12",
+    "time": "00:30",
+    "away": "Atlanta United",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-12",
+    "time": "00:30",
+    "away": "San Jose Earthquakes",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-12",
+    "time": "00:30",
+    "away": "St. Louis CITY SC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-12",
+    "time": "01:30",
+    "away": "Houston Dynamo FC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-12",
+    "time": "02:30",
+    "away": "Minnesota United FC",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-12",
+    "time": "23:00",
+    "away": "Orlando City",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-13",
+    "time": "01:00",
+    "away": "Real Salt Lake",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "02:30",
+    "away": "Sporting Kansas City",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "17:00",
+    "away": "Austin FC",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "18:30",
+    "away": "Red Bull New York",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "20:30",
+    "away": "Inter Miami CF",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "23:30",
+    "away": "Houston Dynamo FC",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-18",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-19",
+    "time": "00:30",
+    "away": "LA Galaxy",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-19",
+    "time": "00:30",
+    "away": "Portland Timbers",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-19",
+    "time": "01:30",
+    "away": "San Diego FC",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-19",
+    "time": "01:30",
+    "away": "St. Louis CITY SC",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-19",
+    "time": "23:00",
+    "away": "San Jose Earthquakes",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-22",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-22",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-22",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-22",
+    "time": "23:30",
+    "away": "LA Galaxy",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-22",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-22",
+    "time": "23:30",
+    "away": "Philadelphia Union",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-23",
+    "time": "00:30",
+    "away": "Minnesota United FC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-23",
+    "time": "00:30",
+    "away": "San Diego FC",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-23",
+    "time": "01:30",
+    "away": "Inter Miami CF",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-23",
+    "time": "02:30",
+    "away": "Austin FC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-23",
+    "time": "02:30",
+    "away": "Colorado Rapids",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-25",
+    "time": "17:00",
+    "away": "Atlanta United",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-25",
+    "time": "17:30",
+    "away": "Los Angeles Football Club",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-25",
+    "time": "18:30",
+    "away": "New York City Football Club",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-25",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-25",
+    "time": "23:30",
+    "away": "Orlando City",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-25",
+    "time": "23:30",
+    "away": "Philadelphia Union",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-25",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "00:30",
+    "away": "Charlotte FC",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "00:30",
+    "away": "Houston Dynamo FC",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "00:30",
+    "away": "San Jose Earthquakes",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "00:30",
+    "away": "Sporting Kansas City",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "01:30",
+    "away": "Portland Timbers",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "02:30",
+    "away": "Colorado Rapids",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "02:30",
+    "away": "FC Dallas",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-04-26",
+    "time": "23:00",
+    "away": "Real Salt Lake",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "17:00",
+    "away": "San Jose Earthquakes",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "18:30",
+    "away": "Seattle Sounders FC",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "20:30",
+    "away": "Portland Timbers",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "23:00",
+    "away": "Orlando City",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "23:30",
+    "away": "CF Montréal",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "23:30",
+    "away": "FC Dallas",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "23:30",
+    "away": "Minnesota United FC",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-02",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-03",
+    "time": "00:30",
+    "away": "Colorado Rapids",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-03",
+    "time": "00:30",
+    "away": "FC Cincinnati",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-03",
+    "time": "01:30",
+    "away": "Los Angeles Football Club",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-03",
+    "time": "02:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-03",
+    "time": "19:00",
+    "away": "D.C. United",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-03",
+    "time": "21:30",
+    "away": "St. Louis CITY SC",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-06",
+    "time": "23:30",
+    "away": "Los Angeles Football Club",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-09",
+    "time": "17:00",
+    "away": "Inter Miami CF",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-09",
+    "time": "18:30",
+    "away": "Red Bull New York",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-09",
+    "time": "20:30",
+    "away": "Orlando City",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-09",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-09",
+    "time": "23:30",
+    "away": "LA Galaxy",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-09",
+    "time": "23:30",
+    "away": "Philadelphia Union",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "01:00",
+    "away": "D.C. United",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "01:30",
+    "away": "St. Louis CITY SC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "02:30",
+    "away": "San Diego FC",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "02:30",
+    "away": "Sporting Kansas City",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "02:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "20:30",
+    "away": "Columbus Crew",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-10",
+    "time": "23:00",
+    "away": "Austin FC",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-11",
+    "time": "01:00",
+    "away": "Houston Dynamo FC",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-13",
+    "time": "23:00",
+    "away": "New York City Football Club",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-13",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-13",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-13",
+    "time": "23:30",
+    "away": "Inter Miami CF",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-13",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-13",
+    "time": "23:30",
+    "away": "Philadelphia Union",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-13",
+    "time": "23:30",
+    "away": "Portland Timbers",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-14",
+    "time": "00:30",
+    "away": "Colorado Rapids",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-14",
+    "time": "00:30",
+    "away": "LA Galaxy",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-14",
+    "time": "00:30",
+    "away": "Los Angeles Football Club",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-14",
+    "time": "00:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-14",
+    "time": "01:30",
+    "away": "Austin FC",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-14",
+    "time": "01:30",
+    "away": "Houston Dynamo FC",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-14",
+    "time": "01:30",
+    "away": "San Jose Earthquakes",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-16",
+    "time": "20:30",
+    "away": "Chicago Fire FC",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-16",
+    "time": "23:30",
+    "away": "Atlanta United",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-16",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-16",
+    "time": "23:30",
+    "away": "Minnesota United FC",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-16",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-16",
+    "time": "23:30",
+    "away": "St. Louis CITY SC",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-16",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-17",
+    "time": "00:30",
+    "away": "Sporting Kansas City",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-17",
+    "time": "00:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-17",
+    "time": "01:00",
+    "away": "LA Galaxy",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-17",
+    "time": "01:30",
+    "away": "Colorado Rapids",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-17",
+    "time": "01:30",
+    "away": "FC Cincinnati",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-17",
+    "time": "02:30",
+    "away": "FC Dallas",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-17",
+    "time": "22:00",
+    "away": "Portland Timbers",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-18",
+    "time": "00:00",
+    "away": "Los Angeles Football Club",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-23",
+    "time": "18:30",
+    "away": "Austin FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-23",
+    "time": "23:30",
+    "away": "CF Montréal",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-23",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-23",
+    "time": "23:30",
+    "away": "Orlando City",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "00:30",
+    "away": "New York City Football Club",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "00:30",
+    "away": "Red Bull New York",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "00:30",
+    "away": "Toronto FC",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "01:30",
+    "away": "FC Dallas",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "01:30",
+    "away": "San Jose Earthquakes",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "01:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "02:30",
+    "away": "Houston Dynamo FC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "21:00",
+    "away": "Atlanta United",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-24",
+    "time": "23:00",
+    "away": "Philadelphia Union",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-05-25",
+    "time": "01:00",
+    "away": "Seattle Sounders FC",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-16",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-17",
+    "time": "00:30",
+    "away": "Sporting Kansas City",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-17",
+    "time": "00:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-17",
+    "time": "02:30",
+    "away": "Portland Timbers",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-18",
+    "time": "00:15",
+    "away": "Atlanta United",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-18",
+    "time": "02:45",
+    "away": "Los Angeles Football Club",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-22",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-22",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-22",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-22",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-22",
+    "time": "23:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "00:00",
+    "away": "Atlanta United",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "00:30",
+    "away": "CF Montréal",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "00:30",
+    "away": "D.C. United",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "00:30",
+    "away": "Minnesota United FC",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "00:30",
+    "away": "Seattle Sounders FC",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "01:30",
+    "away": "San Diego FC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "02:30",
+    "away": "FC Dallas",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "02:30",
+    "away": "Orlando City",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "02:30",
+    "away": "Real Salt Lake",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-23",
+    "time": "02:30",
+    "away": "St. Louis CITY SC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:00",
+    "away": "FC Cincinnati",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:30",
+    "away": "Atlanta United",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:30",
+    "away": "Inter Miami CF",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:30",
+    "away": "Seattle Sounders FC",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-25",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-26",
+    "time": "00:30",
+    "away": "Austin FC",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-26",
+    "time": "00:30",
+    "away": "Colorado Rapids",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-26",
+    "time": "00:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-26",
+    "time": "01:30",
+    "away": "FC Dallas",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-26",
+    "time": "02:30",
+    "away": "LA Galaxy",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-26",
+    "time": "02:30",
+    "away": "Real Salt Lake",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-26",
+    "time": "02:30",
+    "away": "Sporting Kansas City",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-07-31",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-01",
+    "time": "23:30",
+    "away": "Atlanta United",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-01",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-01",
+    "time": "23:30",
+    "away": "Los Angeles Football Club",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-01",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-01",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-01",
+    "time": "23:30",
+    "away": "Orlando City",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-01",
+    "time": "23:30",
+    "away": "San Jose Earthquakes",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-02",
+    "time": "00:30",
+    "away": "Charlotte FC",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-02",
+    "time": "00:30",
+    "away": "Houston Dynamo FC",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-02",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-02",
+    "time": "00:30",
+    "away": "San Diego FC",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-02",
+    "time": "01:30",
+    "away": "Austin FC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-02",
+    "time": "02:30",
+    "away": "FC Dallas",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-02",
+    "time": "02:45",
+    "away": "Seattle Sounders FC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-15",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-15",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-15",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-15",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-15",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "00:30",
+    "away": "FC Dallas",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "00:30",
+    "away": "Inter Miami CF",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "00:30",
+    "away": "LA Galaxy",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "01:30",
+    "away": "Minnesota United FC",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "01:30",
+    "away": "Sporting Kansas City",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "02:30",
+    "away": "San Diego FC",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "02:30",
+    "away": "St. Louis CITY SC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "22:30",
+    "away": "Philadelphia Union",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-16",
+    "time": "22:30",
+    "away": "Portland Timbers",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-17",
+    "time": "01:00",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-19",
+    "time": "23:30",
+    "away": "CF Montréal",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-19",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-19",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-19",
+    "time": "23:30",
+    "away": "Inter Miami CF",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-19",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-19",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-19",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "00:00",
+    "away": "St. Louis CITY SC",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "00:30",
+    "away": "Atlanta United",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "01:30",
+    "away": "Austin FC",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "01:30",
+    "away": "FC Dallas",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "01:30",
+    "away": "Los Angeles Football Club",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "02:30",
+    "away": "Houston Dynamo FC",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "02:30",
+    "away": "San Diego FC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-20",
+    "time": "02:30",
+    "away": "San Jose Earthquakes",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-22",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-22",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-22",
+    "time": "23:30",
+    "away": "LA Galaxy",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-22",
+    "time": "23:30",
+    "away": "Real Salt Lake",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-22",
+    "time": "23:30",
+    "away": "Seattle Sounders FC",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-22",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "00:30",
+    "away": "Columbus Crew",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "00:30",
+    "away": "Houston Dynamo FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "00:30",
+    "away": "Philadelphia Union",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "01:30",
+    "away": "FC Dallas",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "02:30",
+    "away": "Colorado Rapids",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "02:30",
+    "away": "Minnesota United FC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "02:30",
+    "away": "Portland Timbers",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "20:30",
+    "away": "New York City Football Club",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-23",
+    "time": "23:00",
+    "away": "Sporting Kansas City",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-29",
+    "time": "20:30",
+    "away": "Chicago Fire FC",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-29",
+    "time": "23:30",
+    "away": "CF Montréal",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-29",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-29",
+    "time": "23:30",
+    "away": "Los Angeles Football Club",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-29",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-29",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-29",
+    "time": "23:30",
+    "away": "Philadelphia Union",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "00:30",
+    "away": "FC Cincinnati",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "00:30",
+    "away": "Orlando City",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "00:30",
+    "away": "San Jose Earthquakes",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "00:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "01:30",
+    "away": "Real Salt Lake",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "02:30",
+    "away": "Austin FC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "02:30",
+    "away": "LA Galaxy",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-08-30",
+    "time": "23:00",
+    "away": "FC Dallas",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-04",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-05",
+    "time": "23:30",
+    "away": "Atlanta United",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-05",
+    "time": "23:30",
+    "away": "CF Montréal",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-05",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-05",
+    "time": "23:30",
+    "away": "Colorado Rapids",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-05",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-05",
+    "time": "23:30",
+    "away": "Houston Dynamo FC",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-05",
+    "time": "23:30",
+    "away": "San Diego FC",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-06",
+    "time": "00:30",
+    "away": "Red Bull New York",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-06",
+    "time": "00:30",
+    "away": "San Jose Earthquakes",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-06",
+    "time": "00:30",
+    "away": "Sporting Kansas City",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-06",
+    "time": "01:30",
+    "away": "Los Angeles Football Club",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-06",
+    "time": "01:30",
+    "away": "New England Revolution",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-06",
+    "time": "02:30",
+    "away": "Minnesota United FC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-06",
+    "time": "02:30",
+    "away": "St. Louis CITY SC",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-09",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-09",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-09",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-09",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-09",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-09",
+    "time": "23:30",
+    "away": "Orlando City",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "00:30",
+    "away": "Colorado Rapids",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "00:30",
+    "away": "FC Dallas",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "00:30",
+    "away": "Inter Miami CF",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "02:30",
+    "away": "LA Galaxy",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "02:30",
+    "away": "Red Bull New York",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "02:30",
+    "away": "San Jose Earthquakes",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "02:30",
+    "away": "Sporting Kansas City",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-10",
+    "time": "02:30",
+    "away": "St. Louis CITY SC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-12",
+    "time": "23:30",
+    "away": "Atlanta United",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-12",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-12",
+    "time": "23:30",
+    "away": "Nashville SC",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-12",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-12",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "00:30",
+    "away": "Los Angeles Football Club",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "00:30",
+    "away": "Minnesota United FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "00:30",
+    "away": "Portland Timbers",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "01:30",
+    "away": "CF Montréal",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "01:30",
+    "away": "New York City Football Club",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "02:30",
+    "away": "Houston Dynamo FC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "02:30",
+    "away": "Seattle Sounders FC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "22:30",
+    "away": "Austin FC",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-13",
+    "time": "22:30",
+    "away": "New England Revolution",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-14",
+    "time": "01:00",
+    "away": "Philadelphia Union",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-18",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-19",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-19",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-19",
+    "time": "23:30",
+    "away": "Los Angeles Football Club",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-19",
+    "time": "23:30",
+    "away": "Orlando City",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "00:30",
+    "away": "Austin FC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "00:30",
+    "away": "FC Cincinnati",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "00:30",
+    "away": "LA Galaxy",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "00:30",
+    "away": "Philadelphia Union",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "00:30",
+    "away": "Toronto FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "01:30",
+    "away": "Chicago Fire FC",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "01:30",
+    "away": "Seattle Sounders FC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "01:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "02:30",
+    "away": "Atlanta United",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-20",
+    "time": "23:00",
+    "away": "San Diego FC",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-26",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-26",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-26",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-26",
+    "time": "23:30",
+    "away": "Orlando City",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-26",
+    "time": "23:30",
+    "away": "St. Louis CITY SC",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "00:30",
+    "away": "Los Angeles Football Club",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "00:30",
+    "away": "Minnesota United FC",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "00:30",
+    "away": "San Diego FC",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "00:30",
+    "away": "Sporting Kansas City",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "00:30",
+    "away": "Toronto FC",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "01:30",
+    "away": "New England Revolution",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "02:30",
+    "away": "Colorado Rapids",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "02:30",
+    "away": "D.C. United",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "02:30",
+    "away": "Portland Timbers",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-09-27",
+    "time": "23:00",
+    "away": "Inter Miami CF",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "17:00",
+    "away": "CF Montréal",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "18:30",
+    "away": "New York City Football Club",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "23:30",
+    "away": "Columbus Crew",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "23:30",
+    "away": "FC Dallas",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "23:30",
+    "away": "Real Salt Lake",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "23:30",
+    "away": "San Diego FC",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-10",
+    "time": "23:30",
+    "away": "Seattle Sounders FC",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-11",
+    "time": "00:30",
+    "away": "Houston Dynamo FC",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-11",
+    "time": "00:30",
+    "away": "Nashville SC",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-11",
+    "time": "00:30",
+    "away": "Portland Timbers",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-11",
+    "time": "01:30",
+    "away": "San Jose Earthquakes",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-11",
+    "time": "02:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-11",
+    "time": "23:00",
+    "away": "LA Galaxy",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-14",
+    "time": "23:30",
+    "away": "Atlanta United",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-14",
+    "time": "23:30",
+    "away": "Charlotte FC",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-14",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-14",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-14",
+    "time": "23:30",
+    "away": "Orlando City",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-14",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "00:30",
+    "away": "Philadelphia Union",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "00:30",
+    "away": "Seattle Sounders FC",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "00:30",
+    "away": "Sporting Kansas City",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "00:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "01:30",
+    "away": "Minnesota United FC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "01:30",
+    "away": "San Jose Earthquakes",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "02:30",
+    "away": "Austin FC",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "02:30",
+    "away": "Houston Dynamo FC",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-15",
+    "time": "02:30",
+    "away": "Portland Timbers",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-17",
+    "time": "18:30",
+    "away": "Charlotte FC",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-17",
+    "time": "20:30",
+    "away": "St. Louis CITY SC",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-17",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-17",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-17",
+    "time": "23:30",
+    "away": "Inter Miami CF",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-17",
+    "time": "23:30",
+    "away": "Toronto FC",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "00:30",
+    "away": "FC Dallas",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "00:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "02:30",
+    "away": "CF Montréal",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "02:30",
+    "away": "Colorado Rapids",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "02:30",
+    "away": "Nashville SC",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "02:30",
+    "away": "San Diego FC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-18",
+    "time": "23:00",
+    "away": "Columbus Crew",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-24",
+    "time": "17:30",
+    "away": "Nashville SC",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-24",
+    "time": "18:30",
+    "away": "Toronto FC",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-24",
+    "time": "20:30",
+    "away": "Inter Miami CF",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-24",
+    "time": "23:30",
+    "away": "Chicago Fire FC",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-24",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-24",
+    "time": "23:30",
+    "away": "New England Revolution",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-24",
+    "time": "23:30",
+    "away": "New York City Football Club",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-25",
+    "time": "00:30",
+    "away": "Austin FC",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-25",
+    "time": "00:30",
+    "away": "Minnesota United FC",
+    "home": "Houston Dynamo FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-25",
+    "time": "00:30",
+    "away": "San Jose Earthquakes",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-25",
+    "time": "01:30",
+    "away": "St. Louis CITY SC",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-25",
+    "time": "01:30",
+    "away": "Vancouver Whitecaps FC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-25",
+    "time": "02:30",
+    "away": "Charlotte FC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-25",
+    "time": "02:30",
+    "away": "Seattle Sounders FC",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-26",
+    "time": "01:00",
+    "away": "LA Galaxy",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-28",
+    "time": "23:30",
+    "away": "Atlanta United",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-28",
+    "time": "23:30",
+    "away": "CF Montréal",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-28",
+    "time": "23:30",
+    "away": "D.C. United",
+    "home": "Toronto FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-28",
+    "time": "23:30",
+    "away": "FC Cincinnati",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-28",
+    "time": "23:30",
+    "away": "Red Bull New York",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "00:30",
+    "away": "Columbus Crew",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "00:30",
+    "away": "Orlando City",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "00:30",
+    "away": "Philadelphia Union",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "00:30",
+    "away": "Portland Timbers",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "00:30",
+    "away": "Real Salt Lake",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "00:30",
+    "away": "Sporting Kansas City",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "02:30",
+    "away": "Colorado Rapids",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "02:30",
+    "away": "Houston Dynamo FC",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-29",
+    "time": "02:30",
+    "away": "San Diego FC",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "17:00",
+    "away": "Orlando City",
+    "home": "Charlotte FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "18:00",
+    "away": "CF Montréal",
+    "home": "New York City Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "18:00",
+    "away": "D.C. United",
+    "home": "Columbus Crew"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "18:00",
+    "away": "FC Dallas",
+    "home": "Sporting Kansas City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "18:00",
+    "away": "Philadelphia Union",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "18:00",
+    "away": "San Diego FC",
+    "home": "St. Louis CITY SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "21:00",
+    "away": "Austin FC",
+    "home": "LA Galaxy"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "21:00",
+    "away": "Minnesota United FC",
+    "home": "Los Angeles Football Club"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-10-31",
+    "time": "21:00",
+    "away": "Real Salt Lake",
+    "home": "San Jose Earthquakes"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-01",
+    "time": "01:30",
+    "away": "Chicago Fire FC",
+    "home": "Colorado Rapids"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-01",
+    "time": "21:30",
+    "away": "Red Bull New York",
+    "home": "Nashville SC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-01",
+    "time": "21:30",
+    "away": "Seattle Sounders FC",
+    "home": "Vancouver Whitecaps FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-01",
+    "time": "21:30",
+    "away": "Toronto FC",
+    "home": "Atlanta United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-02",
+    "time": "00:00",
+    "away": "Inter Miami CF",
+    "home": "New England Revolution"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-02",
+    "time": "02:15",
+    "away": "Houston Dynamo FC",
+    "home": "Portland Timbers"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "Atlanta United",
+    "home": "Red Bull New York"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "Charlotte FC",
+    "home": "Inter Miami CF"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "Columbus Crew",
+    "home": "Chicago Fire FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "Nashville SC",
+    "home": "FC Cincinnati"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "New England Revolution",
+    "home": "Orlando City"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "New York City Football Club",
+    "home": "D.C. United"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "Toronto FC",
+    "home": "Philadelphia Union"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-07",
+    "time": "21:00",
+    "away": "Vancouver Whitecaps FC",
+    "home": "CF Montréal"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-08",
+    "time": "00:00",
+    "away": "Colorado Rapids",
+    "home": "FC Dallas"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-08",
+    "time": "00:00",
+    "away": "LA Galaxy",
+    "home": "Real Salt Lake"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-08",
+    "time": "00:00",
+    "away": "Los Angeles Football Club",
+    "home": "Seattle Sounders FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-08",
+    "time": "00:00",
+    "away": "Portland Timbers",
+    "home": "Austin FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-08",
+    "time": "00:00",
+    "away": "San Jose Earthquakes",
+    "home": "Minnesota United FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-08",
+    "time": "00:00",
+    "away": "Sporting Kansas City",
+    "home": "San Diego FC"
+  },
+  {
+    "sport": "mls",
+    "date": "2026-11-08",
+    "time": "00:00",
+    "away": "St. Louis CITY SC",
+    "home": "Houston Dynamo FC"
+  }
+]
