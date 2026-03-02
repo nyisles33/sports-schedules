@@ -1,0 +1,102 @@
+[
+  {
+    "pto": "Alaves",
+    "json": "deportivo alavés",
+    "bm": "Deportivo Alaves"
+  },
+  {
+    "pto": "Athletic Club",
+    "json": "athletic club",
+    "bm": "Athletic Bilbao"
+  },
+  {
+    "pto": "Atletico Madrid",
+    "json": "atlético de madrid",
+    "bm": "Atletico Madrid"
+  },
+  {
+    "pto": "Barcelona",
+    "json": "fc barcelona",
+    "bm": "FC Barcelona"
+  },
+  {
+    "pto": "Celta Vigo",
+    "json": "celta",
+    "bm": "RC Celta de Vigo"
+  },
+  {
+    "pto": "Elche",
+    "json": "elche cf",
+    "bm": "Elche CF"
+  },
+  {
+    "pto": "Espanyol",
+    "json": "rcd espanyol de barcelona",
+    "bm": "Espanyol Barcelona"
+  },
+  {
+    "pto": "Getafe",
+    "json": "getafe cf",
+    "bm": "Getafe CF"
+  },
+  {
+    "pto": "Girona",
+    "json": "girona fc",
+    "bm": "Girona FC"
+  },
+  {
+    "pto": "Levante",
+    "json": "levante ud",
+    "bm": "Levante UD"
+  },
+  {
+    "pto": "Mallorca",
+    "json": "rcd mallorca",
+    "bm": "RCD Mallorca"
+  },
+  {
+    "pto": "Osasuna",
+    "json": "ca osasuna",
+    "bm": "CA Osasuna"
+  },
+  {
+    "pto": "Rayo Vallecano",
+    "json": "rayo vallecano",
+    "bm": "Rayo Vallecano"
+  },
+  {
+    "pto": "Real Betis",
+    "json": "real betis",
+    "bm": "Real Betis Seville"
+  },
+  {
+    "pto": "Real Madrid",
+    "json": "real madrid",
+    "bm": "Real Madrid"
+  },
+  {
+    "pto": "Real Oviedo",
+    "json": "real oviedo",
+    "bm": "Real Oviedo"
+  },
+  {
+    "pto": "Real Sociedad",
+    "json": "real sociedad",
+    "bm": "Real Sociedad San Sebastian"
+  },
+  {
+    "pto": "Sevilla",
+    "json": "sevilla fc",
+    "bm": "Sevilla FC"
+  },
+  {
+    "pto": "Valencia",
+    "json": "valencia cf",
+    "bm": "Valencia CF"
+  },
+  {
+    "pto": "Villarreal",
+    "json": "villarreal cf",
+    "bm": "Villarreal CF"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "pto": "AJ Auxerre",
+    "json": "aj auxerre",
+    "bm": "AJ Auxerre"
+  },
+  {
+    "pto": "AS Monaco",
+    "json": "as monaco",
+    "bm": "AS Monaco"
+  },
+  {
+    "pto": "Angers",
+    "json": "angers sco",
+    "bm": "Angers SCO"
+  },
+  {
+    "pto": "Brest",
+    "json": "stade brestois 29",
+    "bm": "Stade Brest 29"
+  },
+  {
+    "pto": "Le Havre AC",
+    "json": "havre athletic club",
+    "bm": "Le Havre AC"
+  },
+  {
+    "pto": "Lens",
+    "json": "rc lens",
+    "bm": "Racing Club De Lens"
+  },
+  {
+    "pto": "Lille",
+    "json": "losc lille",
+    "bm": "Lille OSC"
+  },
+  {
+    "pto": "Lorient",
+    "json": "fc lorient",
+    "bm": "FC Lorient"
+  },
+  {
+    "pto": "Lyon",
+    "json": "olympique lyonnais",
+    "bm": "Olympique Lyon"
+  },
+  {
+    "pto": "Marseille",
+    "json": "olympique de marseille",
+    "bm": "Olympique Marseille"
+  },
+  {
+    "pto": "Metz",
+    "json": "fc metz",
+    "bm": "FC Metz"
+  },
+  {
+    "pto": "Nantes",
+    "json": "fc nantes",
+    "bm": "FC Nantes"
+  },
+  {
+    "pto": "Nice",
+    "json": "ogc nice",
+    "bm": "OGC Nice"
+  },
+  {
+    "pto": "Paris FC",
+    "json": "paris fc",
+    "bm": "Paris FC"
+  },
+  {
+    "pto": "Paris Saint Germain",
+    "json": "paris saint-germain",
+    "bm": "Paris Saint-Germain"
+  },
+  {
+    "pto": "Stade Rennais",
+    "json": "stade rennais fc",
+    "bm": "Stade Rennais FC"
+  },
+  {
+    "pto": "Strasbourg",
+    "json": "rc strasbourg alsace",
+    "bm": "Strasbourg Alsace"
+  },
+  {
+    "pto": "Toulouse",
+    "json": "toulouse fc",
+    "bm": "Toulouse FC"
+  }
+]

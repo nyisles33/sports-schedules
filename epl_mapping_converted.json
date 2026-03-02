@@ -1,0 +1,102 @@
+[
+  {
+    "pto": "AFC Bournemouth",
+    "json": "bournemouth",
+    "bm": "AFC Bournemouth"
+  },
+  {
+    "pto": "Arsenal",
+    "json": "arsenal",
+    "bm": "Arsenal FC"
+  },
+  {
+    "pto": "Aston Villa",
+    "json": "aston villa",
+    "bm": "Aston Villa"
+  },
+  {
+    "pto": "Brentford",
+    "json": "brentford",
+    "bm": "Brentford FC"
+  },
+  {
+    "pto": "Brighton & Hove Albion",
+    "json": "brighton",
+    "bm": "Brighton & Hove Albion"
+  },
+  {
+    "pto": "Burnley",
+    "json": "burnley",
+    "bm": "Burnley FC"
+  },
+  {
+    "pto": "Chelsea",
+    "json": "chelsea",
+    "bm": "Chelsea FC"
+  },
+  {
+    "pto": "Crystal Palace",
+    "json": "crystal palace",
+    "bm": "Crystal Palace"
+  },
+  {
+    "pto": "Everton",
+    "json": "everton",
+    "bm": "Everton FC"
+  },
+  {
+    "pto": "Fulham",
+    "json": "fulham",
+    "bm": "Fulham FC"
+  },
+  {
+    "pto": "Leeds United",
+    "json": "leeds",
+    "bm": "Leeds United"
+  },
+  {
+    "pto": "Liverpool",
+    "json": "liverpool",
+    "bm": "Liverpool FC"
+  },
+  {
+    "pto": "Manchester City",
+    "json": "man city",
+    "bm": "Manchester City"
+  },
+  {
+    "pto": "Manchester United",
+    "json": "man utd",
+    "bm": "Manchester United"
+  },
+  {
+    "pto": "Newcastle United",
+    "json": "newcastle",
+    "bm": "Newcastle United"
+  },
+  {
+    "pto": "Nottingham Forest",
+    "json": "nott'm forest",
+    "bm": "Nottingham Forest"
+  },
+  {
+    "pto": "Sunderland",
+    "json": "sunderland",
+    "bm": "Sunderland AFC"
+  },
+  {
+    "pto": "Tottenham Hotspur",
+    "json": "spurs",
+    "bm": "Tottenham Hotspur"
+  },
+  {
+    "pto": "West Ham United",
+    "json": "west ham",
+    "bm": "West Ham United"
+  },
+  {
+    "pto": "Wolverhampton Wanderers",
+    "json": "wolves",
+    "bm": "Wolverhampton Wanderers"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "pto": "AS Roma",
+    "json": "roma",
+    "bm": "AS Roma"
+  },
+  {
+    "pto": "Aston Villa",
+    "json": "aston villa",
+    "bm": "Aston Villa"
+  },
+  {
+    "pto": "Bologna",
+    "json": "bologna",
+    "bm": "Bologna FC"
+  },
+  {
+    "pto": "Braga",
+    "json": "braga",
+    "bm": "SC Braga"
+  },
+  {
+    "pto": "Celta Vigo",
+    "json": "celta",
+    "bm": "RC Celta de Vigo"
+  },
+  {
+    "pto": "FC Midtjylland",
+    "json": "midtjylland",
+    "bm": "FC Midtjylland"
+  },
+  {
+    "pto": "FC Porto",
+    "json": "porto",
+    "bm": "FC Porto"
+  },
+  {
+    "pto": "Ferencvaros",
+    "json": "ferencváros",
+    "bm": "Ferencvarosi Budapest"
+  },
+  {
+    "pto": "Lille",
+    "json": "lille",
+    "bm": "Lille OSC"
+  },
+  {
+    "pto": "Lyon",
+    "json": "lyon",
+    "bm": "Olympique Lyon"
+  },
+  {
+    "pto": "Nottingham Forest",
+    "json": "nott'm forest",
+    "bm": "Nottingham Forest"
+  },
+  {
+    "pto": "Panathinaikos",
+    "json": "panathinaikos",
+    "bm": "Panathinaikos Athens"
+  },
+  {
+    "pto": "Racing Genk",
+    "json": "genk",
+    "bm": "KRC Genk"
+  },
+  {
+    "pto": "Real Betis",
+    "json": "real betis",
+    "bm": "Real Betis Seville"
+  },
+  {
+    "pto": "SC Freiburg",
+    "json": "freiburg",
+    "bm": "SC Freiburg"
+  },
+  {
+    "pto": "VfB Stuttgart",
+    "json": "stuttgart",
+    "bm": "VfB Stuttgart"
+  }
+]

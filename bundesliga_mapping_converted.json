@@ -1,0 +1,92 @@
+[
+  {
+    "pto": "1. FC Heidenheim 1846",
+    "json": "1. fc heidenheim 1846",
+    "bm": "1. FC Heidenheim"
+  },
+  {
+    "pto": "1. FC Union Berlin",
+    "json": "1. fc union berlin",
+    "bm": "Union Berlin"
+  },
+  {
+    "pto": "Bayer Leverkusen",
+    "json": "bayer 04 leverkusen",
+    "bm": "Bayer Leverkusen"
+  },
+  {
+    "pto": "Bayern Munich",
+    "json": "fc bayern münchen",
+    "bm": "Bayern Munich"
+  },
+  {
+    "pto": "Borussia Dortmund",
+    "json": "borussia dortmund",
+    "bm": "Borussia Dortmund"
+  },
+  {
+    "pto": "Borussia Monchengladbach",
+    "json": "borussia mönchengladbach",
+    "bm": "Borussia Monchengladbach"
+  },
+  {
+    "pto": "Eintracht Frankfurt",
+    "json": "eintracht frankfurt",
+    "bm": "Eintracht Frankfurt"
+  },
+  {
+    "pto": "FC Augsburg",
+    "json": "fc augsburg",
+    "bm": "FC Augsburg"
+  },
+  {
+    "pto": "FC Cologne",
+    "json": "1. fc köln",
+    "bm": "1. FC Cologne"
+  },
+  {
+    "pto": "Hamburg SV",
+    "json": "hamburger sv",
+    "bm": "Hamburger SV"
+  },
+  {
+    "pto": "Mainz",
+    "json": "1. fsv mainz 05",
+    "bm": "FSV Mainz"
+  },
+  {
+    "pto": "RB Leipzig",
+    "json": "rb leipzig",
+    "bm": "RB Leipzig"
+  },
+  {
+    "pto": "SC Freiburg",
+    "json": "sport-club freiburg",
+    "bm": "SC Freiburg"
+  },
+  {
+    "pto": "St. Pauli",
+    "json": "fc st. pauli",
+    "bm": "FC St. Pauli"
+  },
+  {
+    "pto": "TSG Hoffenheim",
+    "json": "tsg hoffenheim",
+    "bm": "TSG Hoffenheim"
+  },
+  {
+    "pto": "VfB Stuttgart",
+    "json": "vfb stuttgart",
+    "bm": "VfB Stuttgart"
+  },
+  {
+    "pto": "VfL Wolfsburg",
+    "json": "vfl wolfsburg",
+    "bm": "VFL Wolfsburg"
+  },
+  {
+    "pto": "Werder Bremen",
+    "json": "sv werder bremen",
+    "bm": "Werder Bremen"
+  }
+]

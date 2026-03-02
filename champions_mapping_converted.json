@@ -1,0 +1,82 @@
+[
+  {
+    "pto": "Arsenal",
+    "json": "arsenal",
+    "bm": "Arsenal FC"
+  },
+  {
+    "pto": "Atalanta",
+    "json": "atalanta",
+    "bm": "Atalanta BC"
+  },
+  {
+    "pto": "Atletico Madrid",
+    "json": "atleti",
+    "bm": "Atletico Madrid"
+  },
+  {
+    "pto": "Barcelona",
+    "json": "barcelona",
+    "bm": "FC Barcelona"
+  },
+  {
+    "pto": "Bayern Munich",
+    "json": "bayern münchen",
+    "bm": "Bayern Munich"
+  },
+  {
+    "pto": "Bodo/Glimt",
+    "json": "bodø/glimt",
+    "bm": "Bodoe/Glimt"
+  },
+  {
+    "pto": "Chelsea",
+    "json": "chelsea",
+    "bm": "Chelsea FC"
+  },
+  {
+    "pto": "Galatasaray",
+    "json": "galatasaray",
+    "bm": "Galatasaray Istanbul"
+  },
+  {
+    "pto": "Liverpool",
+    "json": "liverpool",
+    "bm": "Liverpool FC"
+  },
+  {
+    "pto": "Manchester City",
+    "json": "man city",
+    "bm": "Manchester City"
+  },
+  {
+    "pto": "Newcastle United",
+    "json": "newcastle",
+    "bm": "Newcastle United"
+  },
+  {
+    "pto": "Paris Saint Germain",
+    "json": "paris",
+    "bm": "Paris Saint-Germain"
+  },
+  {
+    "pto": "Real Madrid",
+    "json": "real madrid",
+    "bm": "Real Madrid"
+  },
+  {
+    "pto": "Sporting CP",
+    "json": "sporting cp",
+    "bm": "Sporting CP"
+  },
+  {
+    "pto": "Tottenham Hotspur",
+    "json": "tottenham",
+    "bm": "Tottenham Hotspur"
+  },
+  {
+    "pto": "Bayer Leverkusen",
+    "json": "leverkusen",
+    "bm": "Bayer Leverkusen"
+  }
+]

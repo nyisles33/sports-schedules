@@ -1,0 +1,102 @@
+[
+  {
+    "pto": "AC Milan",
+    "json": "milan",
+    "bm": "AC Milan"
+  },
+  {
+    "pto": "AS Roma",
+    "json": "roma",
+    "bm": "AS Roma"
+  },
+  {
+    "pto": "Atalanta",
+    "json": "atalanta",
+    "bm": "Atalanta BC"
+  },
+  {
+    "pto": "Bologna",
+    "json": "bologna",
+    "bm": "Bologna FC"
+  },
+  {
+    "pto": "Cagliari",
+    "json": "cagliari",
+    "bm": "Cagliari Calcio"
+  },
+  {
+    "pto": "Como",
+    "json": "como",
+    "bm": "Como 1907"
+  },
+  {
+    "pto": "Cremonese",
+    "json": "cremonese",
+    "bm": "US Cremonese"
+  },
+  {
+    "pto": "Fiorentina",
+    "json": "fiorentina",
+    "bm": "ACF Fiorentina"
+  },
+  {
+    "pto": "Genoa",
+    "json": "genoa",
+    "bm": "Genoa CFC"
+  },
+  {
+    "pto": "Hellas Verona",
+    "json": "hellas verona",
+    "bm": "Hellas Verona"
+  },
+  {
+    "pto": "Internazionale",
+    "json": "inter",
+    "bm": "Inter Milano"
+  },
+  {
+    "pto": "Juventus",
+    "json": "juventus",
+    "bm": "Juventus Turin"
+  },
+  {
+    "pto": "Lazio",
+    "json": "lazio",
+    "bm": "Lazio Rome"
+  },
+  {
+    "pto": "Lecce",
+    "json": "lecce",
+    "bm": "US Lecce"
+  },
+  {
+    "pto": "Napoli",
+    "json": "napoli",
+    "bm": "SSC Napoli"
+  },
+  {
+    "pto": "Parma",
+    "json": "parma",
+    "bm": "Parma Calcio"
+  },
+  {
+    "pto": "Pisa",
+    "json": "pisa",
+    "bm": "Pisa SC"
+  },
+  {
+    "pto": "Sassuolo",
+    "json": "sassuolo",
+    "bm": "Sassuolo Calcio"
+  },
+  {
+    "pto": "Torino",
+    "json": "torino",
+    "bm": "Torino FC"
+  },
+  {
+    "pto": "Udinese",
+    "json": "udinese",
+    "bm": "Udinese Calcio"
+  }
+]
